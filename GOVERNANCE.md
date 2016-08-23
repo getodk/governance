@@ -151,7 +151,7 @@ In summary:
 *   Those who don’t agree with the proposal and think they have a better idea should vote -1 and defend their counter-proposal.
 *   Those who don’t agree but don’t have a better idea should vote -0.
 *   Those who agree but will not actively assist in implementing the proposal should vote +0.
-*   Those who agree and will actively assist in implementing the proposal should vote +1\.
+*   Those who agree and will actively assist in implementing the proposal should vote +1.
 
 ### <a name="types-of-approval"></a>Types of approval
 
@@ -199,7 +199,7 @@ Different actions require different types of approval, ranging from lazy consens
             <td>2/3 majority</td>
             <td>Some strategic actions require a 2/3 majority of PMC
             members; in addition, 2/3 of the binding votes cast must be
-            +1\. Such actions typically affect the foundation of the
+            +1. Such actions typically affect the foundation of the
             project (e.g. adopting a new codebase to replace an existing
             product).</td>
             <td>120 hours</td>
