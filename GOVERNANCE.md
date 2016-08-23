@@ -22,7 +22,7 @@ Users who continue to engage with the project and its community will often becom
 
 #### Contributors
 
-Contributors are community members who contribute in concrete ways to the project. Anyone can become a contributor, and contributions can take many forms, as detailed in a [separate document](communitytools). There is no expectation of commitment to the project, no specific skill requirements and no selection process.
+Contributors are community members who contribute in concrete ways to the project. Anyone can become a contributor and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements and no selection process.
 
 In addition to their actions as users, contributors may also find themselves doing one or more of the following:
 
@@ -36,7 +36,7 @@ In addition to their actions as users, contributors may also find themselves doi
 *   fixing bugs
 *   adding features
 
-Contributors engage with the project through the issue tracker and mailing list, or by writing or editing documentation. They submit changes to the project itself via [patches](softwarepatch), which will be considered for inclusion in the project by existing committers (see next section). The developer mailing list is the most appropriate place to ask for help when making that first contribution.
+Contributors engage with the project through the issue tracker and mailing list, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The developer mailing list is the most appropriate place to ask for help when making that first contribution.
 
 As contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership.
 
@@ -46,7 +46,7 @@ Committers are community members who have shown that they are committed to the c
 
 This does not mean that a committer is free to do what they want. In fact, committers have no more authority over the project than contributors. While committership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work continues to be reviewed by the community before acceptance in an official release. The key difference between a committer and a contributor is when this approval is sought from the community. A committer seeks approval after the contribution is made, rather than before.
 
-Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project. The project employs various [communication mechanisms](communitytools) to ensure that all contributions are reviewed by the community as a whole. By the time a contributor is invited to become a committer, they will have become familiar with the project’s various tools as a user and then as a contributor.
+Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project. The project employs various communication mechanisms to ensure that all contributions are reviewed by the community as a whole. By the time a contributor is invited to become a committer, they will have become familiar with the project’s various tools as a user and then as a contributor.
 
 Anyone can become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
 
@@ -78,7 +78,9 @@ All participants in the community are encouraged to provide support for new user
 
 ### Contribution process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply [patches](softwarepatch). The various ways of contributing are described in more detail in [a separate document](rolesinopensource).
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. 
+
+Contributors can also help by providing feedbackm helping new users recommending the project to others, testing and reporting or fixing bugs, requesting new features, writing and updating software, creating artwork, writing or updating documentation, and translating.
 
 The developer mailing list is the most appropriate place for a contributor to ask for help when making their first contribution.
 
@@ -107,15 +109,7 @@ For lazy consensus to be effective, it is necessary to allow at least 72 hours b
 
 #### Voting
 
-Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making. A separate document on the [voting within a meritocratic governance model](meritocraticGovernanceVoting) describes in more detail how voting is conducted in projects following the practice established within the Apache Software Foundation.
-
-
-
-
-
-As described in our document discussing the [meritocratic governance model](meritocraticGovernanceModel), meritocratic open source projects make decisions through consultation with all members of the community. In order to make this process as efficient as possible they often adopt a policy of lazy consensus, which allows most of the decisions to be made without resorting to a formal vote. However not all decisions can be made through lazy consensus: issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. This document describes in more detail how voting is conducted in such situations in projects following the practice established within the Apache Software Foundation.
-
-## Voting
+Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making. 
 
 If a formal vote on a proposal is called (signaled simply by sending a email with ‘[VOTE]’ in the subject line), all participants on the project contributors’ list may express an opinion and vote. They do this by sending an email in reply to the original ‘[VOTE]’ email, with the following vote and information:
 
@@ -143,183 +137,117 @@ In summary:
 *   Those who agree but will not actively assist in implementing the proposal should vote +0.
 *   Those who agree and will actively assist in implementing the proposal should vote +1\.
 
-## Types of approval
+#### Types of approval
 
 Different actions require different types of approval, ranging from lazy consensus to a majority decision by the PMC. These are summarised in the table below. The section after the table describes which type of approval should be used in common situations.
 
 <table>
-
-<thead>
-
-<tr>
-
-<th>Type</th>
-
-<th>Description</th>
-
-<th>Duration</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Lazy consensus</td>
-
-<td>An action with lazy consensus is implicitly allowed, unless a binding -1 vote is received. Depending on the type of action, a vote will then be called. Note that even though a binding -1 is required to prevent the action, all community members are encouraged to cast a -1 vote with supporting argument. Committers are expected to evaluate the argument and, if necessary, support it with a binding -1.</td>
-
-<td>N/A</td>
-
-</tr>
-
-<tr>
-
-<td>Lazy majority</td>
-
-<td>A lazy majority vote requires more binding +1 votes than binding -1 votes.</td>
-
-<td>72 hours</td>
-
-</tr>
-
-<tr>
-
-<td>Consensus approval</td>
-
-<td>Consensus approval requires three binding +1 votes and no binding -1 votes.</td>
-
-<td>72 hours</td>
-
-</tr>
-
-<tr>
-
-<td>Unanimous consensus</td>
-
-<td>All of the binding votes that are cast are to be +1 and there can be no binding vetoes (-1).</td>
-
-<td>120 hours</td>
-
-</tr>
-
-<tr>
-
-<td>2/3 majority</td>
-
-<td>Some strategic actions require a 2/3 majority of PMC members; in addition, 2/3 of the binding votes cast must be +1\. Such actions typically affect the foundation of the project (e.g. adopting a new codebase to replace an existing product).</td>
-
-<td>120 hours</td>
-
-</tr>
-
-</tbody>
-
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Duration</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Lazy consensus</td>
+            <td>An action with lazy consensus is implicitly allowed, unless
+            a binding -1 vote is received. Depending on the type of action,
+            a vote will then be called. Note that even though a binding -1
+            is required to prevent the action, all community members are
+            encouraged to cast a -1 vote with supporting argument.
+            Committers are expected to evaluate the argument and, if
+            necessary, support it with a binding -1.</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Lazy majority</td>
+            <td>A lazy majority vote requires more binding +1 votes than
+            binding -1 votes.</td>
+            <td>72 hours</td>
+        </tr>
+        <tr>
+            <td>Consensus approval</td>
+            <td>Consensus approval requires three binding +1 votes and no
+            binding -1 votes.</td>
+            <td>72 hours</td>
+        </tr>
+        <tr>
+            <td>Unanimous consensus</td>
+            <td>All of the binding votes that are cast are to be +1 and
+            there can be no binding vetoes (-1).</td>
+            <td>120 hours</td>
+        </tr>
+        <tr>
+            <td>2/3 majority</td>
+            <td>Some strategic actions require a 2/3 majority of PMC
+            members; in addition, 2/3 of the binding votes cast must be
+            +1\. Such actions typically affect the foundation of the
+            project (e.g. adopting a new codebase to replace an existing
+            product).</td>
+            <td>120 hours</td>
+        </tr>
+    </tbody>
 </table>
 
-## When is a vote required?
+#### When is a vote required? 
 
-Every effort is made to allow the majority of decisions to be taken through lazy consensus. That is, simply stating one’s intentions is assumed to be enough to proceed, unless an objection is raised. However, some activities require a more formal approval process in order to ensure fully transparent decision making.
-
-The table below describes some of the actions that will require a vote. It also identifies which type of vote should be called.
+Every effort is made to allow the majority of decisions to be taken through lazy consensus. That is, simply stating one’s intentions is assumed to be enough to proceed, unless an objection is raised. However, some activities require a more formal approval process in order to ensure fully transparent decision making. The table below describes some of the actions that will require a vote. It also identifies which type of vote should be called.
 
 <table>
-
-<thead>
-
-<tr>
-
-<th>Action</th>
-
-<th>Description</th>
-
-<th>Approval type</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Release plan</td>
-
-<td>Defines the timetable and actions for a release. A release plan cannot be vetoed (hence lazy majority).</td>
-
-<td>Lazy majority</td>
-
-</tr>
-
-<tr>
-
-<td>Product release</td>
-
-<td>When a release of one of the project’s products is ready, a vote is required to accept the release as an official release of the project. A release cannot be vetoed (hence lazy majority).</td>
-
-<td>Lazy majority</td>
-
-</tr>
-
-<tr>
-
-<td>New committer</td>
-
-<td>A new committer has been proposed.</td>
-
-<td>Consensus approval of the PMC</td>
-
-</tr>
-
-<tr>
-
-<td>New PMC member</td>
-
-<td>A new PMC member has been proposed.</td>
-
-<td>Consensus approval of the community</td>
-
-</tr>
-
-<tr>
-
-<td>Committer removal</td>
-
-<td>When removal of commit privileges is sought.</td>
-
-<td>Unanimous consensus of the PMC</td>
-
-</tr>
-
-<tr>
-
-<td>PMC member removal</td>
-
-<td>When removal of PMC membership is sought.</td>
-
-<td>Unanimous consensus of the community</td>
-
-</tr>
-
-</tbody>
-
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Description</th>
+            <th>Approval type</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Release plan</td>
+            <td>Defines the timetable and actions for a release. A release
+            plan cannot be vetoed (hence lazy majority).</td>
+            <td>Lazy majority</td>
+        </tr>
+        <tr>
+            <td>Product release</td>
+            <td>When a release of one of the project’s products is ready, a
+            vote is required to accept the release as an official release
+            of the project. A release cannot be vetoed (hence lazy
+            majority).</td>
+            <td>Lazy majority</td>
+        </tr>
+        <tr>
+            <td>New committer</td>
+            <td>A new committer has been proposed.</td>
+            <td>Consensus approval of the PMC</td>
+        </tr>
+        <tr>
+            <td>New PMC member</td>
+            <td>A new PMC member has been proposed.</td>
+            <td>Consensus approval of the community</td>
+        </tr>
+        <tr>
+            <td>Committer removal</td>
+            <td>When removal of commit privileges is sought.</td>
+            <td>Unanimous consensus of the PMC</td>
+        </tr>
+        <tr>
+            <td>PMC member removal</td>
+            <td>When removal of PMC membership is sought.</td>
+            <td>Unanimous consensus of the community</td>
+        </tr>
+    </tbody>
 </table>
-
-
-
-
-
-
 
 ## Conclusion
 
 A clear and transparent governance document is a key part of any open development project. It defines the rules of engagement within the community and describes what level of influence a community member can expect to have over a project. In addition, it enables members to decide their level of involvement with that community. In the case of a meritocracy, it also provides a clear way to contribute and a highly visible reward system.
 
-This example governance model comes from the more democratic end of the spectrum of control found within open development projects. At the other end, the [benevolent dictator governance model](benevolentdictatorgovernancemodel) describes a model in which a single individual takes the task of maintaining consensus within the project, and if necessary has the final say in the decision making process.
+All that said, please remember that this project is your project. The point of this document is to grow the project by enabling, facilitating, and securing contributions in a manner that satisfies everyone. Pull requests and comments about the documents are always welcome, either here in the repository or in our community forums.
 
 
+## Acknowledgements
 
-
-This a derivative work of Meritocratic Governance Model by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+This a derivative work of [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
