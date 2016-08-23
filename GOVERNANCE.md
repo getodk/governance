@@ -250,4 +250,4 @@ All that said, please remember that this project is your project. The point of t
 
 ## Acknowledgements
 
-This a derivative work of [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+This a derivative work of [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
