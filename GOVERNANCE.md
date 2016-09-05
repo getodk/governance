@@ -75,13 +75,13 @@ It is important to recognise that commitership is a privilege, not a right. That
 
 #### <a name="current-committers"></a>Current committers
 
-* [Yaw Anokwa](https://github.com/yanokwa)
-* [Jeff Boerse](https://github.com/jbeorse)
-* [Waylon Brunette](https://github.com/wbrunette)
-* [Carl Hartung](https://github.com/chartung)
-* [Clarice Larson](https://github.com/clarlars)
-* [Sam Sudar](https://github.com/srsudar)
-* [Mitch Sundt](https://github.com/mitchellsundt)
+* [Yaw Anokwa](https://github.com/yanokwa), Nafundi
+* [Jeff Beorse](https://github.com/jbeorse), University of Washington
+* [Waylon Brunette](https://github.com/wbrunette), University of Washington
+* [Carl Hartung](https://github.com/chartung), Nafundi
+* [Clarice Larson](https://github.com/clarlars), University of Washington
+* [Sam Sudar](https://github.com/srsudar), University of Washington
+* [Mitch Sundt](https://github.com/mitchellsundt), University of Washington
 
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
 
