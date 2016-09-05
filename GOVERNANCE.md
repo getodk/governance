@@ -5,9 +5,9 @@
   * [Users](#users)
   * [Contributors](#contributors)
   * [Committers](#committers)
+    * [Current committers](#current-committers)
   * [Project management committee](#project-management-committee)
-  * [PMC chair](#pmc-chair)
-  * [PMC members](#pmc-members)
+    * [Current project management committee](#current-project-management-committee)
 * [Support](#support)
 * [Contribution process](#contribution-process)
 * [Decision making process](#decision-making-process)
@@ -73,6 +73,16 @@ Nominees may decline their appointment as a committer. However, this is unusual,
 
 It is important to recognise that commitership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the PMC (see next section) in extreme circumstances. However, under normal circumstances committership exists for as long as the committer wishes to continue engaging with the project.
 
+#### <a name="current-committers"></a>Current committers
+
+* [Yaw Anokwa](https://github.com/yanokwa)
+* [Jeff Boerse](https://github.com/jbeorse)
+* [Waylon Brunette](https://github.com/wbrunette)
+* [Carl Hartung](https://github.com/chartung)
+* [Clarice Larson](https://github.com/clarlars)
+* [Sam Sudar](https://github.com/srsudar)
+* [Mitch Sundt](https://github.com/mitchellsundt)
+
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
 
 ### <a name="project-management-committee"></a>Project management committee
@@ -83,18 +93,16 @@ Members of the PMC do not have significant authority over other members of the c
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
-### <a name="pmc-chair"></a>PMC chair
-
 The PMC Chair is a single individual, voted for by the PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the PMC casts a two-thirds majority vote to remove them.
 
 The PMC Chair has no additional authority over other members of the PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
 
-### <a name="pmc-members"></a>PMC members
+#### <a name="current-project-management-committee"></a>Current project management committee
 
-* <a href="http://www.cs.washington.edu/people/faculty/anderson">Richard Anderson</a>
-* <a href="https://github.com/yanokwa">Yaw Anokwa</a> (Chair)
-* <a href="https://github.com/wbrunette">Waylon Brunette</a>
-* <a href="https://github.com/chartung">Carl Hartung</a>
+* [Richard Anderson](http://www.cs.washington.edu/people/faculty/anderson)
+* [Yaw Anokwa](https://github.com/yanokwa) - Chair
+* [Waylon Brunette](https://github.com/wbrunette)
+* [Carl Hartung](https://github.com/chartung)
 
 ## <a name="support"></a>Support
 
