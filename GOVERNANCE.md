@@ -53,7 +53,7 @@ In addition to their actions as users, contributors may also find themselves doi
 *   fixing bugs
 *   adding features
 
-Contributors engage with the project through the issue tracker and mailing list, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The developer mailing list is the most appropriate place to ask for help when making that first contribution.
+Contributors engage with the project through the issue trackers and mailing lists, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [developer mailing list](https://groups.google.com/forum/#!forum/opendatakit-developers) is the most appropriate place to ask for help when making that first contribution.
 
 As contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership.
 
@@ -67,7 +67,7 @@ Seeking approval after making a contribution is known as a commit-then-review pr
 
 Anyone can become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
 
-New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the project management committee (PMC; see below). Committer voting is one of the few activities that takes place on the project’s private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public mailing list. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.
+New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the project management committee (PMC; see below). Committer voting is one of the few activities that takes place on the project’s private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public mailing lists. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.
 
 Nominees may decline their appointment as a committer. However, this is unusual, as the project does not expect any specific time or resource commitment from its community members. The intention behind the role of committer is to allow people to contribute to the project more easily, not to tie them in to the project in any formal way.
 
@@ -110,15 +110,15 @@ All participants in the community are encouraged to provide support for new user
 
 ## <a name="contribution-process"></a>Contribution process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. 
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the mailing lists and issue trackers, or might supply patches. 
 
-Contributors can also help by providing feedbackm helping new users recommending the project to others, testing and reporting or fixing bugs, requesting new features, writing and updating software, creating artwork, writing or updating documentation, and translating.
+Contributors can also help by providing feedback helping new users recommending the project to others, testing and reporting or fixing bugs, requesting new features, writing and updating software, creating artwork, writing or updating documentation, and translating.
 
-The developer mailing list is the most appropriate place for a contributor to ask for help when making their first contribution.
+The [developer mailing list](https://groups.google.com/forum/#!forum/opendatakit-developers) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
 ## <a name="decision-making-process"></a>Decision making process
 
-Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the project contributors’ mailing list. Occasionally, sensitive discussion occurs on a private list.
+Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the project mailing lists. Occasionally, sensitive discussion occurs on a private list.
 
 In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
@@ -131,7 +131,7 @@ Decision making typically involves the following steps:
 *   Vote (if consensus is not reached through discussion)
 *   Decision
 
-Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should send an email to the project contributors’ list or submit a patch implementing the idea to the issue tracker (or version-control system if they have commit access). This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
+Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should send an email to the project contributors’ list or submit a patch implementing the idea to the issue trackers (or version-control system if they have commit access). This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
 
 In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
