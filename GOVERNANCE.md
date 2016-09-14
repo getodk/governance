@@ -1,6 +1,7 @@
 # Governance
 
 * [Overview](#overview)
+* [Code of conduct](#code-of-conduct)
 * [Roles and responsibilities](#roles-and-responsibilities)
   * [Users](#users)
   * [Contributors](#contributors)
@@ -21,6 +22,10 @@
 ## <a name="overview"></a>Overview
 
 This is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
+
+## <a name="code-of-conduct"></a>Code of conduct
+
+This community project aims to be an open and welcoming environment experience for everyone. All community members are encouraged to follow this [code of conduct](https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md).
 
 ## <a name="roles-and-responsibilities"></a>Roles and responsibilities
 
