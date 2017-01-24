@@ -81,10 +81,12 @@ It is important to recognise that commitership is a privilege, not a right. That
 #### <a name="current-committers"></a>Current committers
 
 * [Yaw Anokwa](https://github.com/yanokwa), Nafundi
+* [Brent Atkinson](https://github.com/batkinson)
 * [Jeff Beorse](https://github.com/jbeorse), University of Washington
 * [Waylon Brunette](https://github.com/wbrunette), University of Washington
-* [Carl Hartung](https://github.com/chartung), Nafundi
+* [Carl Hartung](https://github.com/chartung)
 * [Clarice Larson](https://github.com/clarlars), University of Washington
+* [Hélène Martin](https://github.com/lognaturel), Nafundi
 * [Sam Sudar](https://github.com/srsudar), University of Washington
 * [Mitch Sundt](https://github.com/mitchellsundt), University of Washington
 
