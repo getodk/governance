@@ -25,7 +25,7 @@ This is a meritocratic, consensus-based community project. Anyone with an intere
 
 ## <a name="code-of-conduct"></a>Code of conduct
 
-This community project aims to be an open and welcoming environment experience for everyone. All community members are encouraged to follow this [code of conduct](https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md).
+This community project aims to be an open and welcoming environment experience for everyone. All community members must follow this [code of conduct](https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md).
 
 ## <a name="roles-and-responsibilities"></a>Roles and responsibilities
 
