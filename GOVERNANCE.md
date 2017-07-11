@@ -58,7 +58,7 @@ In addition to their actions as users, contributors may also find themselves doi
 *   fixing bugs
 *   adding features
 
-Contributors engage with the project through the issue trackers and mailing lists, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [developer mailing list](https://groups.google.com/forum/#!forum/opendatakit-developers) is the most appropriate place to ask for help when making that first contribution.
+Contributors engage with the project through the issue trackers and mailing lists, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [ODK Forum development Category](https://forum.opendatakit.org/c/development) is the most appropriate place to ask for help when making that first contribution.
 
 As contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership.
 
@@ -118,11 +118,11 @@ All participants in the community are encouraged to provide support for new user
 
 ## <a name="contribution-process"></a>Contribution process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the mailing lists and issue trackers, or might supply patches. 
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the mailing lists and issue trackers, or might supply patches.
 
 Contributors can also help by providing feedback helping new users recommending the project to others, testing and reporting or fixing bugs, requesting new features, writing and updating software, creating artwork, writing or updating documentation, and translating.
 
-The [developer mailing list](https://groups.google.com/forum/#!forum/opendatakit-developers) is the most appropriate place for a contributor to ask for help when making their first contribution.
+The [ODK Forum development Category](https://forum.opendatakit.org/c/development) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
 ## <a name="decision-making-process"></a>Decision making process
 
@@ -149,7 +149,7 @@ For lazy consensus to be effective, it is necessary to allow at least 72 hours b
 
 ### <a name="voting"></a>Voting
 
-Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making. 
+Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
 
 If a formal vote on a proposal is called (signaled simply by sending a email with ‘[VOTE]’ in the subject line), all participants on the project contributors’ list may express an opinion and vote. They do this by sending an email in reply to the original ‘[VOTE]’ email, with the following vote and information:
 
@@ -231,7 +231,7 @@ Different actions require different types of approval, ranging from lazy consens
     </tbody>
 </table>
 
-### <a name="when-is-a-vote-required"></a>When is a vote required? 
+### <a name="when-is-a-vote-required"></a>When is a vote required?
 
 Every effort is made to allow the majority of decisions to be taken through lazy consensus. That is, simply stating one’s intentions is assumed to be enough to proceed, unless an objection is raised. However, some activities require a more formal approval process in order to ensure fully transparent decision making. The table below describes some of the actions that will require a vote. It also identifies which type of vote should be called.
 
