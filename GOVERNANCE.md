@@ -58,7 +58,7 @@ In addition to their actions as users, contributors may also find themselves doi
 *   fixing bugs
 *   adding features
 
-Contributors engage with the project through the issue trackers and mailing lists, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [ODK Forum development Category](https://forum.opendatakit.org/c/development) is the most appropriate place to ask for help when making that first contribution.
+Contributors engage with the project through the issue trackers and mailing lists, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [ODK Forum Development Category](https://forum.opendatakit.org/c/development) is the most appropriate place to ask for help when making that first contribution.
 
 As contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership.
 
@@ -122,7 +122,7 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 
 Contributors can also help by providing feedback helping new users recommending the project to others, testing and reporting or fixing bugs, requesting new features, writing and updating software, creating artwork, writing or updating documentation, and translating.
 
-The [ODK Forum development Category](https://forum.opendatakit.org/c/development) is the most appropriate place for a contributor to ask for help when making their first contribution.
+The [ODK Forum Development Category](https://forum.opendatakit.org/c/development) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
 ## <a name="decision-making-process"></a>Decision making process
 
