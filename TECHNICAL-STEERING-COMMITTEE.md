@@ -17,7 +17,7 @@ Wherever possible, the TSCs should choose shared policies and infrastructure whi
 Although the TSC may update the TSC governance (e.g. this document) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODK project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
  
 The current list of TSC members are:
-* 
+* [Example Person](https://github.com/example), Example Organization
  
 **Committers**
  
@@ -34,7 +34,7 @@ In the case of changes proposed by an existing Committer, an additional Committe
 Committers may opt to elevate significant or controversial modifications or modifications that have not found consensus to the TSC for discussion by assigning the `tsc-agenda` tag to a pull request or issue or forum post. The TSC should serve as the final arbiter where required.
  
 The current list of Committers are:
-*
+* [Example Person](https://github.com/example), Example Organization
  
 **TSC Membership**
  
@@ -75,6 +75,7 @@ The TSC may invite non-members to participate in a non-voting capacity. These in
 The moderator is responsible for summarizing the discussion of each agenda item and publishing it on a publicly accessible platform (e.g., the forum). If appropriate, the moderator will also update the relevant issue, pull request or forum post.
  
 **Decision Making**
+
 For internal project decisions, Committers shall operate under Lazy Consensus. The TSC shall establish appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods).
  
 The TSC follows a Consensus Seeking decision-making model. When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
