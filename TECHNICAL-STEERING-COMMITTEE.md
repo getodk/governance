@@ -41,9 +41,9 @@ In the case of changes proposed by an existing Committer, an additional Committe
  
 Committers may opt to elevate significant or controversial modifications or modifications that have not found consensus to the TSC for discussion by assigning the `tsc-agenda` tag to a pull request or issue or forum post. The TSC should serve as the final arbiter where required.
  
-The current list of Committers are:
-* [Example Person](https://github.com/example), Example Organization
- 
+The current list of Committers is here:
+* [https://github.com/orgs/opendatakit/people](https://github.com/orgs/opendatakit/people)
+
 **TSC Membership**
  
 TSC will be elected via a public application process. The application requirements will focus on relevant experience, contributions to the project ecosystem, and availability to guide technical parts of the project. 
@@ -74,7 +74,7 @@ Items typically discussed by the TSC include project roadmap, feature addition/r
  
 The intention of the agenda is not to approve or review modifications to project resources. That should happen continuously on the relevant resources and are handled by the larger group of Committers.
  
-Any community member or contributor can ask that something be added to the next meeting's agenda by filing an issue or writing a forum post. Any Committer, TSC member, or the moderator can add the item to the agenda by adding the tsc-agenda tag to the issue or post.
+Any community member or contributor can ask that something be added to the next meeting's agenda by filing an issue or writing a forum post. Any Committer, TSC member, or the moderator can add the item to the agenda by adding the `tsc-agenda` tag to the issue or post.
  
 Prior to each TSC meeting, the moderator will share the agenda with members of the TSC. TSC members can add any items they like to the agenda at the beginning of each meeting. The moderator and the TSC cannot veto or remove items.
  
