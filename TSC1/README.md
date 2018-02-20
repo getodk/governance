@@ -39,8 +39,25 @@ The typical process is:
 - The TSC discusses and refines specifications during its meetings
 - Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
 
-## Asset Ownership
+## Meeting Facilitator Checklist
+1. Ensure a thread for the meeting is present on the forum. [Here is an example](https://forum.opendatakit.org/t/odk-1-tsc-call-2018-02-21/11700).
+2. Construct agenda
+    1. Open [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
+    2. Create a new page (Cmd+Enter or Insert  &gt; Break &gt; Page Break) for the meeting.
+    3. Copy the agenda template to that page.
+    4. Copy action items from the previous meeting into the new agenda for follow up.
+    5. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the [parking lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0).
+    6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0) for potential agenda items.
+    7. Also check for any agenda item requests in the above forum thread. If something from the thread doesn’t make it into the meeting, put it in the [parking lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0).
+4. Send out the agenda and a reminder of the meeting (to where?)
+5. Running the meeting
+    1. Arrive 5 minutes prior to start time to ensure connected, room setup, etc.
+    2. Work through the agenda, keeping note of the time.
+7. After the meeting
+    1. Add chat transcript and audio links to the minutes.
+    2. Post a link to the minutes in the forum thread.
 
+## Asset Ownership
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
 
 * Google Docs - should be owned by opendatakit.org@gmail.com
