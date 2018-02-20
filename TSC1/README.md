@@ -44,7 +44,7 @@ The typical process is:
 2. Construct agenda
     1. Open [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
     2. Create a new page (Cmd+Enter or Insert  &gt; Break &gt; Page Break) for the meeting.
-    3. Copy the agenda template to that page.
+    3. Copy the agenda template (at very bottom of document) to that page.
     4. Copy action items from the previous meeting into the new agenda for follow up.
     5. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the [parking lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0).
     6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0) for potential agenda items.
