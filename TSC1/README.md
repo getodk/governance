@@ -38,3 +38,11 @@ The typical process is:
 - A TSC member takes all the feedback from the forum and writes a specification in a [Roadmap repository](https://github.com/opendatakit/roadmap) issue
 - The TSC discusses and refines specifications during its meetings
 - Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
+
+## Asset Ownership
+
+It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
+
+* Google Docs - should be owned by opendatakit.org@gmail.com
+* Uberconference Room - Owned by ???
+* Github projects - owned by the opendatakit Github organization
