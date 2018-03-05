@@ -19,6 +19,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 
 | Venue | Channel | Visibility | Purpose |
 |---|---|---|---|
+| UberConference | [Conference Room](https://www.uberconference.com/opendatakit) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
 | Forums | [**tsc** Tag](https://forum.opendatakit.org/tags/tsc) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.opendatakit.org/c/governance) category but not always. |
 | Forums | [TSC Category](https://forum.opendatakit.org/c/governance/tsc) | TSC-only | For private conversations. |
 | Forums | [**@TSC** mention](https://forum.opendatakit.org/search?q=%40TSC%20) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
@@ -26,15 +27,15 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
 ## Process
-The TSC meets every other Wednesday at 16 UTC on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. Meeting announcements, recordings and notes are shared [on the forum](https://forum.opendatakit.org/tags/tsc). Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda. Anyone can propose agenda items by commenting on the meeting announcement post.
+The TSC meets every other Wednesday at 16 UTC on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. 
+
+Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
 The agenda includes time caps for each item. A time keeper is selected at the beginning of each meeting and is responsible for stopping discussion when time is up.
 
 The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach concensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
 
 As much as possible, the TSC operates in public.
-
-Private matters regarding individuals such as committer nominations are discussed in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc).
 
 ## Adding new committers
 The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
