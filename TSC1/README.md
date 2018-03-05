@@ -14,7 +14,18 @@ The Technical Steering Committee is the technical governing body for Open Data K
 
 For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/lognaturel/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) approved on Nov 7, 2017.
 
-## How the TSC operates
+## Communications
+The TSC engages in various sorts of communication with different audiences. Is it important to understand which communication channel is appropriate for which message.
+
+| Venue | Channel | Visibility | Purpose |
+|---|---|---|---|
+| Forums | [**tsc** Tag](https://forum.opendatakit.org/tags/tsc) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.opendatakit.org/c/governance) category but not always. |
+| Forums | [TSC Category](https://forum.opendatakit.org/c/governance/tsc) | TSC-only | For private conversations. |
+| Forums | [**@TSC** mention](https://forum.opendatakit.org/search?q=%40TSC%20) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
+| Forums | [Meeting topic](https://forum.opendatakit.org/search?q=ODK%201%20TSC%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
+| Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
+
+## Process
 The TSC meets every other Wednesday at 16 UTC on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. Meeting announcements, recordings and notes are shared [on the forum](https://forum.opendatakit.org/tags/tsc). Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda. Anyone can propose agenda items by commenting on the meeting announcement post.
 
 The agenda includes time caps for each item. A time keeper is selected at the beginning of each meeting and is responsible for stopping discussion when time is up.
