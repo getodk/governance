@@ -5,7 +5,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 ## Quick Links
 
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
-- [Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0)
+- [Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0)
 - [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1)
 - [Uberconference Room](https://www.uberconference.com/opendatakit)
 - [TSC Forum Category](https://forum.opendatakit.org/c/governance/tsc)
@@ -59,7 +59,7 @@ The typical process is:
     3. Copy the agenda template, found at the very bottom of the document, to that page.
     4. Copy action items from the previous meeting into the new agenda for follow up.
     5. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/1-kWC17JrlSmOb8qXBMTFhN6q-NbDEDyQnko7r4Zor-I/edit#gid=0) for potential agenda items.
+    6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
     7. Also check for any agenda item requests in the above forum thread. If something from the thread doesn’t make it into the meeting, put it in the parking lot.
 4. Send out the agenda and a reminder of the meeting by placing a link to the agenda document in the meeting thread and mentioning **@TSC** in the post.
 5. Run the meeting.
@@ -72,6 +72,6 @@ The typical process is:
 ## Asset Ownership
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
 
-* Google Docs - should be owned by opendatakit.org@gmail.com
-* Uberconference Room - Owned by ???
+* Google Docs - should be owned by opendatakit.org@gmail.com (PMC owns that account)
+* Uberconference Room - Owned by opendatakit.org@gmail.com
 * Github projects - owned by the opendatakit Github organization
