@@ -66,7 +66,7 @@ The typical process is:
     1. Arrive 5 minutes prior to start time to ensure connected, room setup, etc.
     2. Work through the agenda, keeping note of the time.
 6. Wrap up.
-    1. Add chat transcript and audio links to the minutes.
+    1. Remind PMC member to add chat transcript and audio links to the minutes.
     2. Post a link to the minutes in the forum thread.
 
 ## Asset Ownership
