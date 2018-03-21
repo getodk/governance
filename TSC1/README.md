@@ -67,7 +67,6 @@ The typical process is:
     2. Work through the agenda, keeping note of the time.
 6. Wrap up.
     1. Remind PMC member to add chat transcript and audio links to the minutes.
-    2. Post a link to the minutes in the forum thread.
 
 ## Asset Ownership
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
