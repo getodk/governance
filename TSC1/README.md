@@ -72,5 +72,5 @@ The typical process is:
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
 
 * Google Docs - should be owned by opendatakit.org@gmail.com (PMC owns that account)
-* Uberconference Room - Owned by opendatakit.org@gmail.com
-* Github projects - owned by the opendatakit Github organization
+* UberConference Room - owned by opendatakit.org@gmail.com
+* GitHub projects - owned by the opendatakit GitHub organization
