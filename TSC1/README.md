@@ -61,7 +61,7 @@ The typical process is:
     5. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
     6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
     7. Also check for any agenda item requests in the above forum thread. If something from the thread doesn’t make it into the meeting, put it in the parking lot.
-4. **At least one week before the meeting**, send out the agenda and a reminder of the meeting by placing a link to the agenda document in the meeting thread and mentioning **@TSC** in the post. Calendar reminders can be helpful to get it out on time.
+4. At least one week before the meeting, send out the agenda and a reminder of the meeting by placing a link to the agenda document in the meeting thread and mentioning **@TSC** in the post. Calendar reminders can be helpful to get it out on time.
 5. Run the meeting.
     1. Arrive 5 minutes prior to start time to ensure connected, room setup, etc.
     2. Work through the agenda, keeping note of the time.
