@@ -27,7 +27,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
 ## Process
-The TSC meets every other Wednesday at 16 UTC on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. 
+The TSC meets every other Wednesday for 1 hour starting at 16:00 London time on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
