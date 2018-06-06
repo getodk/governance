@@ -53,7 +53,27 @@ The typical process is:
 - Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
 
 ## Meeting Facilitator Checklist
-1. Ensure a thread for the meeting is present on the forum. [Here is an example](https://forum.opendatakit.org/t/odk-1-tsc-call-2018-02-21/11700).
+1. Ensure a thread for the meeting is present on the forum. 
+    1. Title: ODK 1 TSC Call - YYYY-MM-DD
+    2. Category: Development
+    3. Tags: `tsc`
+    4. Date/Time: The meeting time in your local timezone (currently 4pm London time)
+    5. Content:
+        ```
+        ODK 1 TSC calls bring together the Technical Steering Committee to discuss roadmaps, 
+        working groups, and other issues of technical governance. Everyone is welcome to 
+        come to these calls, but only TSC members may talk.
+
+        The calls are held every two weeks in 
+        [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. 
+        We put the agenda, audio, and transcript of every call 
+        [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        
+        Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time 
+        ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
+        
+        If there are topics you would like to add to the TSC's agenda, please comment below. :point_down:
+        ```
 2. Construct agenda.
     1. Open [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit).
     2. Create a new page (Cmd+Enter or Insert  &gt; Break &gt; Page Break) for the meeting.
