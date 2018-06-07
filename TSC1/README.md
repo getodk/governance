@@ -57,7 +57,7 @@ The typical process is:
     1. Title: ODK 1 TSC Call - YYYY-MM-DD
     2. Category: Development
     3. Tags: `tsc`
-    4. Date/Time: The meeting time in your local timezone (currently 4pm London time)
+    4. Date/Time: Date of the call, 4pm London time (search "London" in the timezone dropdown)
     5. Content:
         ```
         ODK 1 TSC calls bring together the Technical Steering Committee to discuss roadmaps, 
