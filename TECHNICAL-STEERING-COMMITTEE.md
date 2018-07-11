@@ -20,7 +20,6 @@ The current list of TSC members are:
 * Shobhit Agarwal [@shobhitagarwal1612](https://github.com/shobhitagarwal1612), [Tonbo Imaging](http://www.tonboimaging.com/)
 * Alex Anderson [@alxndrsn](https://github.com/alxndrsn), [Medic Mobile](https://medicmobile.org/)
 * Yaw Anokwa [@yanokwa](https://github.com/yanokwa), [Nafundi](http://nafundi.com/)
-* Brent Atkinson [@batkinson](https://github.com/batkinson), [Medical Care Development International](http://www.mcdinternational.org/)
 * Adam Butler [@adamvert](https://github.com/adamvert), [eHealth Africa](https://www.ehealthafrica.org/)
 * Aurelio Di Pasquale [@aurdipas](https://github.com/aurdipas), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
 * Hélène Martin [@lognaturel](https://github.com/lognaturel), [Nafundi](http://nafundi.com/)
