@@ -53,24 +53,18 @@ The typical process is:
 - Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
 
 ## Meeting Facilitator Checklist
-1. Ensure a thread for the meeting is present on the forum. 
+1. Ensure a thread for the meeting is present on the [forum](https://forum.opendatakit.org/). 
     1. Title: ODK 1 TSC Call - YYYY-MM-DD
     2. Category: Development
     3. Tags: `tsc`
     4. Date/Time: Date of the call, 4pm London time (search "London" in the timezone dropdown)
     5. Content:
         ```
-        ODK 1 TSC calls bring together the Technical Steering Committee to discuss roadmaps, 
-        working groups, and other issues of technical governance. Everyone is welcome to 
-        come to these calls, but only TSC members may talk.
+        ODK 1 TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
-        The calls are held every two weeks in 
-        [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. 
-        We put the agenda, audio, and transcript of every call 
-        [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
         
-        Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time 
-        ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
+        Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
         
         If there are topics you would like to add to the TSC's agenda, please comment below. :point_down:
         ```
