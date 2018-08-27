@@ -103,4 +103,4 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
 
 ## <a name="attribution"></a>Attribution
 
-This a derivative work of the [Node.js Project Governance](https://raw.githubusercontent.com/nodejs/nodejs.org/0dd684cf21d278ba8aa178db0a20ebc6d587c58e/locale/en/about/governance.md). This work is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This a derivative work of the [Node.js Project Governance](https://raw.githubusercontent.com/nodejs/nodejs.org/0dd684cf21d278ba8aa178db0a20ebc6d587c58e/locale/en/about/governance.md). This work is licensed under the [MIT](https://opensource.org/licenses/MIT) license with copyright held by Node.js Website WG contributors.
