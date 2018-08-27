@@ -1,10 +1,20 @@
-**Governance Overview**
+# Technical Steering Committee
+
+* [Overview](#overview)
+* [Roles and responsibilities](#roles-and-responsibilities)
+* [Committers](#committers)
+* [Membership](#membership)
+* [Meetings](#meetings)
+* [Decision Making](#decision-making)
+* [Attribution](#attribution)
+
+## <a name="overview"></a>Overview
  
 The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and two Technical Steering Committees (ODK 1 TSC, ODK 2 TSC). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
  
 _Note: As ODK transitions out of the University of Washington, the current PMC's authority will be transferred to a Transition Board. Once the transition is finished, the authority will transfer to a more permanent governance body (likely another PMC). The TSCs will remain active throughout the transition process and post-transition._
  
-**Technical Steering Committees**
+## <a name="roles-and-responsibilities"></a>Roles and responsibilities
  
 The Technical Steering Committees (ODK 1 TSC, ODK 2 TSC) are responsible for high-level technical direction of their respective suites of software. Each TSC has authority over all technical aspects of their suite including:
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.)
@@ -28,8 +38,8 @@ The current ODK 1 TSC members are:
  
 The ODK 2 TSC has not yet been formed. The University of Washington is currently the technical steward of ODK 2.
 
-**Committers**
- 
+## <a name="committers"></a>Committers
+
 Committers are community members who have shown that they are committed to the continued development of the suite through ongoing engagement with the community. Commit/write access allows contributors to more easily carry on with their suite-related activities by giving them direct access to the suite's resources.
  
 The suite's technical resources are managed by the TSC. Individuals making significant and valuable contributions are made Committers and given commit or write access to those resources. These individuals are identified by the TSC and their addition as Committers is discussed during the regular TSC meeting. The process for identifying and granting Committer access is determined by the TSC.
@@ -45,8 +55,8 @@ Committers may opt to elevate significant or controversial modifications or modi
 The current list of Committers is here:
 * [https://github.com/orgs/opendatakit/people](https://github.com/orgs/opendatakit/people)
 
-**TSC Membership**
- 
+## <a name="membership"></a>Membership
+
 TSC membership will be determined via a public application process. The application requirements will focus on relevant experience, contributions to the suite ecosystem, and availability to provide technical direction to the suite.
  
 The initial TSC membership will be determined by the PMC after a public application process and initial members will serve for 1 year.
@@ -65,8 +75,8 @@ No more than 1/3 of the TSC members may be affiliated with the same organization
  
 Changes to TSC membership should be posted in the agenda, and may be suggested as any other agenda item.
  
-**TSC Meetings**
- 
+## <a name="meetings"></a>Meetings
+
 The TSC will meet regularly (generally every two weeks). The meeting will be run by a moderator chosen by the TSC and each meeting will be conducted and published to a publicly accessible platform (e.g., YouTube). Meeting frequency, times, agenda, and notes will also be published to a publicly accessible platform (e.g., the forum, Google Docs).
  
 The TSC will default to working in public, but sensitive topics (e.g., pre-disclosure security problems, confidential pre-agreement discussions with third parties, personal conflicts among personnel) should only be discussed on private channels.
@@ -83,10 +93,14 @@ The TSC may invite non-members to participate in a non-voting capacity. These in
  
 The moderator is responsible for summarizing the discussion of each agenda item and publishing it on a publicly accessible platform (e.g., the forum). If appropriate, the moderator will also update the relevant issue, pull request or forum post.
  
-**Decision Making**
+## <a name="decision-making"></a>Decision Making
 
 For internal project decisions, Committers shall operate under Lazy Consensus. The TSC shall establish appropriate guidelines for implementing Lazy Consensus (e.g., expected notification and review time periods).
  
 The TSC follows a Consensus Seeking decision-making model. When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
  
 If an agenda item cannot reach a consensus, a TSC member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be approved by a majority of the TSC or else the discussion will continue. If all members of the TSC are not present during the meeting for contentious issues, the final vote should happen asynchronously (e.g., via email). Simple majority wins.
+
+## <a name="attribution"></a>Attribution
+
+This a derivative work of the [Node.js Project Governance](https://raw.githubusercontent.com/nodejs/nodejs.org/0dd684cf21d278ba8aa178db0a20ebc6d587c58e/locale/en/about/governance.md). This work is licensed under the [MIT](https://opensource.org/licenses/MIT) license with copyright held by Node.js Website WG contributors.
