@@ -1,1 +1,1 @@
-Unless otherwise mentioned, the documents in this repository are licensed under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). Below are the licenses covering the non-CC documents.
+Unless otherwise mentioned, the documents in this repository are licensed under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
