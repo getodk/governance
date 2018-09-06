@@ -31,11 +31,14 @@ The current ODK 1 TSC members are:
 * Alex Anderson [@alxndrsn](https://github.com/alxndrsn), [Medic Mobile](https://medicmobile.org/)
 * Yaw Anokwa [@yanokwa](https://github.com/yanokwa), [Nafundi](http://nafundi.com/)
 * Adam Butler [@adamvert](https://github.com/adamvert), [eHealth Africa](https://www.ehealthafrica.org/)
-* Aurelio Di Pasquale [@aurdipas](https://github.com/aurdipas), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
+* Guillermo Gutiérrez [@ggalmazor](https://github.com/ggalmazor), [Nafundi](http://nafundi.com/)
+* Dan Joseph [@danbjoseph](https://github.com/danbjoseph), [American Red Cross](https://www.redcross.org/)
 * Hélène Martin [@lognaturel](https://github.com/lognaturel), [Nafundi](http://nafundi.com/)
+* Aurelio Di Pasquale [@aurdipas](https://github.com/aurdipas), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
+* Martijn van de Rijdt [@martijnr](https://github.com/martijnr), [Enketo](http://enketo.org)
 * Tom Smyth [@hooverlunch](https://github.com/hooverlunch), [Sassafras Tech Collective](http://sassafras.coop/)
 * Dickson Ukang'a [@ukanga](https://github.com/ukanga), [Ona](https://ona.io/)
- 
+
 The ODK 2 TSC has not yet been formed. The University of Washington is currently the technical steward of ODK 2.
 
 ## <a name="committers"></a>Committers
