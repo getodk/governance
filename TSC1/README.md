@@ -11,6 +11,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 - [TSC Forum Category](https://forum.opendatakit.org/c/governance/tsc)
 - [TSC Forum Tag](https://forum.opendatakit.org/tags/tsc)
 - ODK Project Pages: [Briefcase](https://github.com/opendatakit/briefcase), [Build](https://github.com/opendatakit/build), [Collect](https://github.com/opendatakit/collect), [Documentation](https://github.com/opendatakit/docs), [JavaRosa](https://github.com/opendatakit/javarosa), [ODK XForms specification](https://github.com/opendatakit/xforms-spec), [Validate](https://github.com/opendatakit/validate), [XLSForm offline](https://github.com/opendatakit/xlsform-offline), [XLSForm online](https://github.com/opendatakit/xlsform-online)
+- [TSC Governance Guidelines](https://github.com/lognaturel/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)
 - [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
 
 For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/lognaturel/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) approved on Nov 7, 2017.
