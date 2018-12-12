@@ -5,6 +5,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 ## Quick Links
 
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
+- [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
 - [Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0)
 - [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1)
 - [Uberconference Room](https://www.uberconference.com/opendatakit)
@@ -105,10 +106,12 @@ At least one week before the meeting:
 ### Wrapping Up
 
 1. Remind PMC member to add chat transcript and audio links to the minutes.
+1. Add an entry to the [meeting history list](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0).
 
 ## Asset Ownership
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
 
-* Google Docs - should be owned by opendatakit.org@gmail.com (PMC owns that account)
+* Google Docs/Drive - should be owned by opendatakit.org@gmail.com (PMC owns that account)
+    * If you create a Google Drive asset that is important for the project and should be long-lived, please transfer ownership to opendatakit.org@gmail.com.
 * UberConference Room - owned by opendatakit.org@gmail.com
 * GitHub projects - owned by the opendatakit GitHub organization
