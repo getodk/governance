@@ -5,7 +5,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 ## Quick Links
 
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1e7oayqi0eTHVJx_q9-S-RgPYyffnqak3nnQq2Dps3Pk/edit)
-- [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/)
+- [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/2)
 - [Uberconference Room](https://www.uberconference.com/opendatakit)
 - [TSC Forum Category](https://forum.opendatakit.org/c/governance/tsc)
 - [TSC Forum Tag](https://forum.opendatakit.org/tags/tsc)
@@ -35,7 +35,7 @@ Meetings are led by a rotating facilitator. The facilitator is responsible for g
 
 The agenda includes time caps for each item. A time keeper is selected at the beginning of each meeting and is responsible for stopping discussion when time is up.
 
-The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach concensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
+The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach consensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
 
 As much as possible, the TSC operates in public.
 
@@ -45,13 +45,13 @@ The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHN
 ## Roadmapping
 Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
 
-The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/).
+The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/2).
 
 The typical process is:
 - Any community member describes a feature [in the forum Features category](https://forum.opendatakit.org/c/features) and high-level discussion occurs
-- A TSC member takes all the feedback from the forum and writes a specification in a [Roadmap repository](https://github.com/opendatakit/roadmap) issue
+- A TSC member takes all the feedback from the forum and writes a specification in a [Roadmap repository](https://github.com/opendatakit/roadmap/projects/2) issue
 - The TSC discusses and refines specifications during its meetings
-- Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
+- Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/2)
 
 ## Meeting Facilitator Checklist
 
