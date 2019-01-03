@@ -14,7 +14,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 - [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 
-For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/lognaturel/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) approved on Nov 7, 2017.
+As a starting point, the ODK 2 TSC adopted the responsibilities defined for the ODK 1 TSC. The intention is to adapt these responsibilities where appropriate for the ODK 2 project. For details, see the [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md).
 
 ## Communications
 The TSC engages in various sorts of communication with different audiences. Is it important to understand which communication channel is appropriate for which message.
