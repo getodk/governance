@@ -89,7 +89,7 @@ At least one week before the meeting:
         
         Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
         
-        The agenda is tenatively as follows:
+        The agenda is tentatively as follows:
         
         _PASTE AGENDA HERE_
         
