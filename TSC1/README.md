@@ -37,7 +37,7 @@ Meetings are led by a rotating facilitator. The facilitator is responsible for g
 
 The agenda includes time caps for each item. A time keeper is selected at the beginning of each meeting and is responsible for stopping discussion when time is up.
 
-The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach concensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
+The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach consensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
 
 As much as possible, the TSC operates in public.
 
@@ -76,7 +76,7 @@ At least one week before the meeting:
     8. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         2. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
-2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/). 
+2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
     1. Title: ODK 1 TSC Call - YYYY-MM-DD
     2. Category: Development
     3. Tags: `tsc`
@@ -86,15 +86,15 @@ At least one week before the meeting:
         ODK 1 @TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
-        
+
         Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
-        
+
         The agenda is tentatively as follows:
-        
+
         _PASTE AGENDA HERE_
-        
+
         The agenda can also be seen in the [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit#)
-        
+
         If there are topics you would like to add to the TSC's agenda, please comment below. :point_down:
         ```
 
