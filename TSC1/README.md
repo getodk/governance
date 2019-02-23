@@ -41,6 +41,9 @@ The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/C
 
 As much as possible, the TSC operates in public.
 
+## Adding new members
+To add new members, a TSC member will send a Google Forms ballot to all TSC members via a private channel. The ballot will have a randomized list of candidate names, with links to their application, and a Yes/No option for each candidate. There will also be a secret passphrase question that members can use to ensure their vote has been counted. After a predetermined period (typically 72 hours), the votes will be counted and the resulting spreadsheet will be made public. The election will be valid only if the results have the correct number of votes and all members can see their secret passphrase.
+
 ## Adding new committers
 The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
