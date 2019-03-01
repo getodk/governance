@@ -28,12 +28,11 @@ Although the TSCs may update the TSC governance (e.g., this document) as they fi
 
 The current ODK 1 TSC members are:
 * Shobhit Agarwal [@shobhitagarwal1612](https://github.com/shobhitagarwal1612), [Tonbo Imaging](http://www.tonboimaging.com/)
-* Alex Anderson [@alxndrsn](https://github.com/alxndrsn), [Medic Mobile](https://medicmobile.org/)
 * Yaw Anokwa [@yanokwa](https://github.com/yanokwa), [Nafundi](http://nafundi.com/)
+* Gareth S. Bestor [@tiritea](https://github.com/tiritea), [MBS](http://master.co.nz/)
 * Adam Butler [@adamvert](https://github.com/adamvert), [eHealth Africa](https://www.ehealthafrica.org/)
 * Guillermo Gutiérrez [@ggalmazor](https://github.com/ggalmazor), [Nafundi](http://nafundi.com/)
 * Dan Joseph [@danbjoseph](https://github.com/danbjoseph), [American Red Cross](https://www.redcross.org/)
-* Hélène Martin [@lognaturel](https://github.com/lognaturel), [Nafundi](http://nafundi.com/)
 * Aurelio Di Pasquale [@aurdipas](https://github.com/aurdipas), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
 * Martijn van de Rijdt [@martijnr](https://github.com/martijnr), [Enketo](http://enketo.org)
 * Tom Smyth [@hooverlunch](https://github.com/hooverlunch), [Sassafras Tech Collective](http://sassafras.coop/)
