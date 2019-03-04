@@ -27,25 +27,25 @@ While it is expected that each suite's TSC will comply with this governance docu
 Although the TSCs may update the TSC governance (e.g., this document) as they find appropriate, revisions are subject to PMC review and veto. Any update to the TSCs governing document must be approved by the majority of the PMC. It is expected that the TSCs will have a collaborative relationship with each other and with the PMC.
 
 The current ODK 1 TSC members are:
-* Shobhit Agarwal [@shobhitagarwal1612](https://github.com/shobhitagarwal1612), [Tonbo Imaging](http://www.tonboimaging.com/)
-* Yaw Anokwa [@yanokwa](https://github.com/yanokwa), [Nafundi](http://nafundi.com/)
-* Gareth S. Bestor [@tiritea](https://github.com/tiritea), [MBS](http://master.co.nz/)
-* Adam Butler [@adamvert](https://github.com/adamvert), [eHealth Africa](https://www.ehealthafrica.org/)
-* Guillermo Gutiérrez [@ggalmazor](https://github.com/ggalmazor), [Nafundi](http://nafundi.com/)
-* Dan Joseph [@danbjoseph](https://github.com/danbjoseph), [American Red Cross](https://www.redcross.org/)
-* Aurelio Di Pasquale [@aurdipas](https://github.com/aurdipas), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
-* Martijn van de Rijdt [@martijnr](https://github.com/martijnr), [Enketo](http://enketo.org)
-* Tom Smyth [@hooverlunch](https://github.com/hooverlunch), [Sassafras Tech Collective](http://sassafras.coop/)
-* Dickson Ukang'a [@ukanga](https://github.com/ukanga), [Ona](https://ona.io/)
+* Shobhit Agarwal ([@shobhitagarwal1612](https://github.com/shobhitagarwal1612)), [Tonbo Imaging](http://www.tonboimaging.com/)
+* Yaw Anokwa ([@yanokwa](https://github.com/yanokwa)), [Nafundi](http://nafundi.com/)
+* Gareth S. Bestor ([@tiritea](https://github.com/tiritea)), [MBS](http://master.co.nz/)
+* Adam Butler ([@adamvert](https://github.com/adamvert)), [eHealth Africa](https://www.ehealthafrica.org/)
+* Guillermo Gutiérrez ([@ggalmazor](https://github.com/ggalmazor)), [Nafundi](http://nafundi.com/)
+* Dan Joseph ([@danbjoseph](https://github.com/danbjoseph)), [American Red Cross](https://www.redcross.org/)
+* Aurelio Di Pasquale ([@aurdipas](https://github.com/aurdipas)), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
+* Martijn van de Rijdt ([@martijnr](https://github.com/martijnr)), [Enketo](http://enketo.org)
+* Tom Smyth ([@hooverlunch](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
+* Dickson Ukang'a ([@ukanga](https://github.com/ukanga)), [Ona](https://ona.io/)
 
 The current ODK 2 TSC members are:
-* Jeff Beorse [@Jeff_Beorse](https://forum.opendatakit.org/u/jeff_beorse), [Watsi](https://watsi.org/), [Eir Birch](https://www.eirbirch.com/)
-* Raquel Berndedo [@berpita](https://forum.opendatakit.org/u/berpita/), [Spanish Red Cross](https://www.cruzroja.es/)
-* Waylon Brunette [@wbrunette](https://github.com/wbrunette), [University of Washington](http://www.washington.edu/)
-* Ben Green [@bengreen](https://forum.opendatakit.org/u/bengreen), [World Mosquito Program](https://worldmosquito.org)
-* Caroline Krafft [@elmps2018](https://forum.opendatakit.org/u/elmps2018), [St Catherine University](https://sites.google.com/site/carolinekrafft/home)
-* Li Lin [@linl33](https://forum.opendatakit.org/u/linl33/), [University of Washington](http://www.washington.edu/)
-* Belendia Serda [@bs](https://forum.opendatakit.org/u/bs), [PATH](https://path.org/)
+* Jeff Beorse ([@Jeff_Beorse](https://forum.opendatakit.org/u/jeff_beorse)), [Watsi](https://watsi.org/), [Eir Birch](https://www.eirbirch.com/)
+* Raquel Berndedo ([@berpita](https://forum.opendatakit.org/u/berpita/)), [Spanish Red Cross](https://www.cruzroja.es/)
+* Waylon Brunette ([@wbrunette](https://github.com/wbrunette)), [University of Washington](http://www.washington.edu/)
+* Ben Green ([@bengreen](https://forum.opendatakit.org/u/bengreen)), [World Mosquito Program](https://worldmosquito.org)
+* Caroline Krafft ([@elmps2018](https://forum.opendatakit.org/u/elmps2018)), [St Catherine University](https://sites.google.com/site/carolinekrafft/home)
+* Li Lin ([@linl33](https://forum.opendatakit.org/u/linl33/)), [University of Washington](http://www.washington.edu/)
+* Belendia Serda ([@bs](https://forum.opendatakit.org/u/bs)), [PATH](https://path.org/)
 
 ## <a name="committers"></a>Committers
 
