@@ -37,9 +37,12 @@ Meetings are led by a rotating facilitator. The facilitator is responsible for g
 
 The agenda includes time caps for each item. A time keeper is selected at the beginning of each meeting and is responsible for stopping discussion when time is up.
 
-The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach concensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
+The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach consensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
 
 As much as possible, the TSC operates in public.
+
+## Adding new members
+To add new members, a TSC member will send a Google Forms ballot to all TSC members via a private channel. The ballot will have a randomized list of candidate names, with links to their application, and a Yes/No option for each candidate. There will also be a secret passphrase question that members can use to ensure their vote has been counted. After a predetermined period (typically 72 hours), the votes will be counted and the resulting spreadsheet will be made public. The election will be valid only if the results have the correct number of votes and all members can see their secret passphrase.
 
 ## Adding new committers
 The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
@@ -76,7 +79,7 @@ At least one week before the meeting:
     8. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         2. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
-2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/). 
+2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
     1. Title: ODK 1 TSC Call - YYYY-MM-DD
     2. Category: Development
     3. Tags: `tsc`
@@ -86,15 +89,15 @@ At least one week before the meeting:
         ODK 1 @TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
-        
+
         Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
-        
+
         The agenda is tentatively as follows:
-        
+
         _PASTE AGENDA HERE_
-        
+
         The agenda can also be seen in the [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit#)
-        
+
         If there are topics you would like to add to the TSC's agenda, please comment below. :point_down:
         ```
 
