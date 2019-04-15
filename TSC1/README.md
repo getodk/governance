@@ -26,7 +26,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | UberConference | [Conference Room](https://www.uberconference.com/opendatakit) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
 | Forums | [**tsc** Tag](https://forum.opendatakit.org/tags/tsc) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.opendatakit.org/c/governance) category but not always. |
 | Forums | [TSC Category](https://forum.opendatakit.org/c/governance/tsc) | TSC-only | For private conversations. |
-| Forums | [**@TSC** mention](https://forum.opendatakit.org/search?q=%40TSC%20) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
+| Forums | [**@TSC-1** mention](https://forum.opendatakit.org/search?q=%40TSC-1) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
 | Forums | [Meeting topic](https://forum.opendatakit.org/search?q=ODK%201%20TSC%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
 | Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
@@ -86,7 +86,7 @@ At least one week before the meeting:
     4. Date/Time: Date of the call, 4pm London time (search "London" in the timezone dropdown)
     5. Content:
         ```
-        ODK 1 @TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
+        ODK 1 @TSC-1 calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
