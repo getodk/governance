@@ -89,7 +89,7 @@ At least one week before the meeting:
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
-        Our next call will be Wed, ENTER_DATE_AND_TIME_HERE, from 16-17 London time ([see in your timezone](ENTER_TIME_AND_DATE_COT_COM_URL_HERE)).
+        Our next call will be Wed, ENTER_DATE_AND_TIME_HERE ([see in your timezone](ENTER_TIME_AND_DATE_COT_COM_URL_HERE)).
 
         The agenda is tentatively as follows:
 
