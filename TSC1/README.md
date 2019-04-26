@@ -75,22 +75,21 @@ At least one week before the meeting:
     4. Copy action items from the previous meeting into the new agenda for follow up.
     5. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
     6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
-    7. Also check for any agenda item requests in the above forum thread. If something from the thread doesn’t make it into the meeting, put it in the parking lot.
-    8. For substantive agenda items:
+    7. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         2. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
 2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
     1. Title: ODK 1 TSC Call - YYYY-MM-DD
     2. Category: Development
-    3. Tags: `tsc`
-    4. Date/Time: Date of the call, 4pm London time (search "London" in the timezone dropdown)
+    3. Tags: `tsc-meeting`
+    4. Date/Time: Date and time of the call
     5. Content:
         ```
         ODK 1 @TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
-        The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit) from 16-17 London time. We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
-        Our next call will be Wed, ENTER_DATE_HERE, from 16-17 London time ([see in your timezone](http://www.thetimezoneconverter.com/?t=16&tz=London)).
+        Our next call will be Wed, ENTER_DATE_AND_TIME_HERE, from 16-17 London time ([see in your timezone](ENTER_TIME_AND_DATE_COT_COM_URL_HERE)).
 
         The agenda is tentatively as follows:
 
@@ -100,6 +99,7 @@ At least one week before the meeting:
 
         If there are topics you would like to add to the TSC's agenda, please comment below. :point_down:
         ```
+3. Monitor the meeting thread for any agenda item requests, adjusting the agenda as needed. If something from the thread doesn’t make it into the meeting, put it in the parking lot.
 
 ### Running the Meeting
 
