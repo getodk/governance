@@ -31,7 +31,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
 ## Process
-The TSC meets every other Wednesday for 1 hour starting at 16:00 London time on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen.
+The TSC meets every other Wednesday for 1 hour on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. See meeting announcements for dates and times.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
@@ -78,18 +78,24 @@ At least one week before the meeting:
     7. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         2. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
+2. Get the URL for the meeting time from timeanddate.com:
+    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ODK+TSC+Meeting&iso=20190101T00&p1=1440&ah=1).
+    1. Click 'Modify Event'.
+    1. Fill in the actual meeting date and time.
+    1. Click 'Show Result'.
+    1. Copy the resulting URL.
 2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
     1. Title: ODK 1 TSC Call - YYYY-MM-DD
     2. Category: Development
     3. Tags: `tsc-meeting`
-    4. Date/Time: Date and time of the call
+    4. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
     5. Content:
         ```
         ODK 1 @TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
-        Our next call will be Wed, ENTER_DATE_AND_TIME_HERE ([see in your timezone](ENTER_TIME_AND_DATE_COT_COM_URL_HERE)).
+        Our next call will be Wed, ENTER_DATE_AND_TIME_HERE ([see in your timezone](PASTE_TIME_URL_HERE)).
 
         The agenda is tentatively as follows:
 
