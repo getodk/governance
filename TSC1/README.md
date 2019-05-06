@@ -9,8 +9,8 @@ The Technical Steering Committee is the technical governing body for Open Data K
 - [Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0)
 - [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1)
 - [Uberconference Room](https://www.uberconference.com/opendatakit)
-- [TSC Forum Category](https://forum.opendatakit.org/c/governance/tsc)
-- [TSC Forum Tag](https://forum.opendatakit.org/tags/tsc)
+- [TSC-1 Forum Category](https://forum.opendatakit.org/c/governance/tsc-1)
+- [TSC-1 Forum Tag](https://forum.opendatakit.org/tags/tsc-1)
 - ODK Project Pages: [Briefcase](https://github.com/opendatakit/briefcase), [Build](https://github.com/opendatakit/build), [Collect](https://github.com/opendatakit/collect), [Documentation](https://github.com/opendatakit/docs), [JavaRosa](https://github.com/opendatakit/javarosa), [ODK XForms specification](https://github.com/opendatakit/xforms-spec), [Validate](https://github.com/opendatakit/validate), [XLSForm offline](https://github.com/opendatakit/xlsform-offline), [XLSForm online](https://github.com/opendatakit/xlsform-online)
 - [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)
 - [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
@@ -25,11 +25,11 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Venue | Channel | Visibility | Purpose |
 |---|---|---|---|
 | UberConference | [Conference Room](https://www.uberconference.com/opendatakit) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
-| Forums | [**tsc** Tag](https://forum.opendatakit.org/tags/tsc) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.opendatakit.org/c/governance) category but not always. |
-| Forums | [TSC Category](https://forum.opendatakit.org/c/governance/tsc) | TSC-only | For private conversations. |
-| Forums | [**@TSC** mention](https://forum.opendatakit.org/search?q=%40TSC%20) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
-| Forums | [Meeting topic](https://forum.opendatakit.org/search?q=ODK%201%20TSC%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
-| Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
+| Forums | [tsc-1 Tag](https://forum.opendatakit.org/tags/tsc-1) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.opendatakit.org/c/governance) category but not always. |
+| Forums | [tsc-1 Category](https://forum.opendatakit.org/c/governance/tsc-1) | TSC-only | For private conversations. |
+| Forums | [@TSC-1 Mention](https://forum.opendatakit.org/search?q=@TSC-1) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
+| Forums | [Meeting Topic](https://forum.opendatakit.org/search?q=TSC-1%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
+| Slack | [#tsc-1 Channel](https://opendatakit.slack.com/channels/tsc-1) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
 ## Process
 
@@ -92,7 +92,7 @@ At least one week before the meeting:
 1. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
     1. Title: ODK TSC-1 Call - YYYY-MM-DD
     1. Category: Development
-    1. Tags: `tsc-meeting`
+    1. Tags: `tsc-1`, `tsc-meeting`
     1. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
     1. Content:
         ```
