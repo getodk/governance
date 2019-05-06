@@ -84,8 +84,7 @@ At least one week before the meeting:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
 1. Get the URL for the meeting time from timeanddate.com:
-    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ODK+TSC-1+Meeting&iso=20190101T00&p1=1440&ah=1). It will say 'event has passed' because the date is set to Jan 1, 2019.
-    1. Click 'Modify Event'.
+    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedform.html?p1=1440&msg=ODK%20TSC-1%20Meeting).
     1. Fill in the actual meeting date and time.
     1. Click 'Show Result'.
     1. Copy the resulting URL.
