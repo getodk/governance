@@ -75,17 +75,16 @@ At least one week before the meeting:
 
 1. Construct the agenda.
     1. Open [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit).
-    1. Create a new page (Cmd+Enter or Insert  &gt; Break &gt; Page Break) for the meeting.
+    1. Create a new page (Cmd+Enter or Insert &gt; Break &gt; Page Break) for the meeting.
     1. Copy the agenda template, found at the very bottom of the document, to that page.
     1. Copy action items from the previous meeting into the new agenda for follow up.
     1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    1. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
+    1. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
     1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
 1. Get the URL for the meeting time from timeanddate.com:
-    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ODK+TSC-1+Meeting&iso=20190101T00&p1=1440&ah=1). It will say 'event has passed' because the date is set to Jan 1, 2019.
-    1. Click 'Modify Event'.
+    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedform.html?p1=1440&msg=ODK%20TSC-1%20Meeting).
     1. Fill in the actual meeting date and time.
     1. Click 'Show Result'.
     1. Copy the resulting URL.
@@ -104,7 +103,7 @@ At least one week before the meeting:
 
         The agenda is tentatively as follows:
 
-        _PASTE AGENDA HERE_
+        PASTE_AGENDA_HERE
 
         The agenda can also be seen in the [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit#)
 
