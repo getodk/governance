@@ -19,6 +19,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/lognaturel/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) approved on Nov 7, 2017.
 
 ## Communications
+
 The TSC engages in various sorts of communication with different audiences. Is it important to understand which communication channel is appropriate for which message.
 
 | Venue | Channel | Visibility | Purpose |
@@ -31,6 +32,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
 ## Process
+
 The TSC meets every other Wednesday for 1 hour on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. See meeting announcements for dates and times.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
@@ -42,12 +44,15 @@ The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/C
 As much as possible, the TSC operates in public.
 
 ## Adding new members
+
 To add new members, a TSC member will send a Google Forms ballot to all TSC members via a private channel. The ballot will have a randomized list of candidate names, with links to their application, and a Yes/No option for each candidate. There will also be a secret passphrase question that members can use to ensure their vote has been counted. After a predetermined period (typically 72 hours), the votes will be counted and the resulting spreadsheet will be made public. The election will be valid only if the results have the correct number of votes and all members can see their secret passphrase.
 
 ## Adding new committers
+
 The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
 ## Roadmapping
+
 Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
 
 The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/1).
@@ -70,28 +75,28 @@ At least one week before the meeting:
 
 1. Construct the agenda.
     1. Open [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit).
-    2. Create a new page (Cmd+Enter or Insert  &gt; Break &gt; Page Break) for the meeting.
-    3. Copy the agenda template, found at the very bottom of the document, to that page.
-    4. Copy action items from the previous meeting into the new agenda for follow up.
-    5. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    6. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
-    7. For substantive agenda items:
+    1. Create a new page (Cmd+Enter or Insert  &gt; Break &gt; Page Break) for the meeting.
+    1. Copy the agenda template, found at the very bottom of the document, to that page.
+    1. Copy action items from the previous meeting into the new agenda for follow up.
+    1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
+    1. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
+    1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
-        2. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
-2. Get the URL for the meeting time from timeanddate.com:
-    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ODK+TSC+Meeting&iso=20190101T00&p1=1440&ah=1).
+        1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
+1. Get the URL for the meeting time from timeanddate.com:
+    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ODK+TSC-1+Meeting&iso=20190101T00&p1=1440&ah=1). It will say 'event has passed' because the date is set to Jan 1, 2019.
     1. Click 'Modify Event'.
     1. Fill in the actual meeting date and time.
     1. Click 'Show Result'.
     1. Copy the resulting URL.
-2. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
-    1. Title: ODK 1 TSC Call - YYYY-MM-DD
-    2. Category: Development
-    3. Tags: `tsc-meeting`
-    4. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
-    5. Content:
+1. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
+    1. Title: ODK TSC-1 Call - YYYY-MM-DD
+    1. Category: Development
+    1. Tags: `tsc-meeting`
+    1. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
+    1. Content:
         ```
-        ODK 1 @TSC calls bring together the Technical Steering Committee to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
+        These calls bring together the Technical Steering Committee for the ODK suite to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
@@ -105,12 +110,12 @@ At least one week before the meeting:
 
         If there are topics you would like to add to the TSC's agenda, please comment below. :point_down:
         ```
-3. Monitor the meeting thread for any agenda item requests, adjusting the agenda as needed. If something from the thread doesn’t make it into the meeting, put it in the parking lot.
+1. Monitor the meeting thread for any agenda item requests, adjusting the agenda as needed. If something from the thread doesn’t make it into the meeting, put it in the parking lot.
 
 ### Running the Meeting
 
 1. Arrive 5 minutes prior to start time to ensure connected, room setup, etc.
-2. Work through the agenda, keeping note of the time.
+1. Work through the agenda, keeping note of the time.
 
 ### Wrapping Up
 
@@ -118,6 +123,7 @@ At least one week before the meeting:
 1. Add an entry to the [meeting history list](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0).
 
 ## Asset Ownership
+
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
 
 * Google Docs/Drive - should be owned by opendatakit.org@gmail.com (PMC owns that account)
