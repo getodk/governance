@@ -103,7 +103,7 @@ At least one week before the meeting:
 
         The agenda is tentatively as follows:
 
-        _PASTE AGENDA HERE_
+        PASTE_AGENDA_HERE
 
         The agenda can also be seen in the [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit#)
 
