@@ -10,13 +10,13 @@
 
 ## <a name="overview"></a>Overview
 
-The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and two Technical Steering Committees (ODK 1 TSC, ODK 2 TSC). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
+The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and two Technical Steering Committees (TSC 1, TSC 2). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK and ODK-X (formerly ODK 2).
 
 _Note: As ODK transitions out of the University of Washington, the current PMC's authority will be transferred to a Transition Board. Once the transition is finished, the authority will transfer to a more permanent governance body (likely another PMC). The TSCs will remain active throughout the transition process and post-transition._
 
 ## <a name="roles-and-responsibilities"></a>Roles and responsibilities
 
-The Technical Steering Committees (ODK 1 TSC, ODK 2 TSC) are responsible for high-level technical direction of their respective suites of software. Each TSC has authority over all technical aspects of their suite including:
+The Technical Steering Committees are responsible for high-level technical direction of their respective suites of software. Each TSC has authority over all technical aspects of their suite including:
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.)
 * Forming appropriate suite Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions
 * The suite's technical resources (e.g., code repositories, servers)
@@ -26,7 +26,9 @@ While it is expected that each suite's TSC will comply with this governance docu
 
 Although the TSCs may update the TSC governance (e.g., this document) as they find appropriate, revisions are subject to PMC review and veto. Any update to the TSCs governing document must be approved by the majority of the PMC. It is expected that the TSCs will have a collaborative relationship with each other and with the PMC.
 
-The current ODK 1 TSC members are:
+TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification.
+
+The current TSC 1 members are:
 * Shobhit Agarwal ([@shobhitagarwal1612](https://github.com/shobhitagarwal1612)), [Tonbo Imaging](http://www.tonboimaging.com/)
 * Yaw Anokwa ([@yanokwa](https://github.com/yanokwa)), [Nafundi](http://nafundi.com/)
 * Gareth S. Bestor ([@tiritea](https://github.com/tiritea)), [Master Business Systems](http://master.co.nz/)
@@ -38,7 +40,9 @@ The current ODK 1 TSC members are:
 * Tom Smyth ([@hooverlunch](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
 * Dickson Ukang'a ([@ukanga](https://github.com/ukanga)), [Ona](https://ona.io/)
 
-The current ODK 2 TSC members are:
+TSC 2 is responsible for the ODK-X Suite: ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan.
+
+The current TSC 2 members are:
 * Jeff Beorse ([@Jeff_Beorse](https://forum.opendatakit.org/u/jeff_beorse)), [Watsi](https://watsi.org/), [Eir Birch](https://www.eirbirch.com/)
 * Raquel Berndedo ([@berpita](https://forum.opendatakit.org/u/berpita/)), [Spanish Red Cross](https://www.cruzroja.es/)
 * Waylon Brunette ([@wbrunette](https://github.com/wbrunette)), [University of Washington](http://www.washington.edu/)
