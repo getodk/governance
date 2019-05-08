@@ -83,11 +83,6 @@ At least one week before the meeting:
     1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
-1. Get the URL for the meeting time from timeanddate.com:
-    1. Go to [this page](https://www.timeanddate.com/worldclock/fixedform.html?p1=1440&msg=ODK%20TSC-1%20Meeting).
-    1. Fill in the actual meeting date and time.
-    1. Click 'Show Result'.
-    1. Copy the resulting URL.
 1. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
     1. Title: ODK TSC-1 Call - YYYY-MM-DD
     1. Category: Development
@@ -99,7 +94,7 @@ At least one week before the meeting:
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
-        Our next call will be Wed, ENTER_DATE_AND_TIME_HERE ([see in your timezone](PASTE_TIME_URL_HERE)).
+        Our next call will be Wed, ENTER_DATE_ONLY_HERE. The meeting time should be shown in your timezone above.
 
         The agenda is tentatively as follows:
 
