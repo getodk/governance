@@ -73,7 +73,9 @@ When you are assigned to be facilitator, you may want to set a calendar reminder
 
 At least one week before the meeting:
 
-1. Construct the agenda.
+1. Accept Google Calender TSC meeting event ownership and confirm that date and time are correct, and that all _current_ TSC members are invited.
+
+2. Construct the agenda.
     1. Open [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit).
     1. Create a new page (Cmd+Enter or Insert &gt; Break &gt; Page Break) for the meeting.
     1. Copy the agenda template, found at the very bottom of the document, to that page.
@@ -115,6 +117,7 @@ At least one week before the meeting:
 
 1. Remind PMC member to add chat transcript and audio links to the minutes.
 1. Add an entry to the [meeting history list](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0).
+1. Change ownership of Google Calendar TSC meeting event to the next facilitator.
 
 ## Asset Ownership
 
