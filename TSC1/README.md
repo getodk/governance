@@ -114,8 +114,9 @@ At least one week before the meeting:
 
 ### Wrapping Up
 
-1. Remind PMC member to add chat transcript and audio links to the minutes.
+1. Remind @yanokwa to add chat transcript and audio links to the minutes.
 1. Add an entry to the [meeting history list](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0).
+2. Review next meeting time. Ask @yanokwa to update calendar invite time and invitees when necessary.
 
 ## Asset Ownership
 
