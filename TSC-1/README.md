@@ -30,7 +30,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Forums | [tsc-1 Category](https://forum.opendatakit.org/c/governance/tsc-1) | TSC-only | For private conversations. |
 | Forums | [@TSC-1 Mention](https://forum.opendatakit.org/search?q=@TSC-1) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
 | Forums | [Meeting Topic](https://forum.opendatakit.org/search?q=TSC-1%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
-| Slack | [#tsc-1 Channel](https://opendatakit.slack.com/channels/tsc-1) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
+| Slack | [#tsc-1, #tsc-1-pulse Channels](https://opendatakit.slack.com/channels/tsc-1) | TSC-only | For quick, private ephemeral conversation. |
 
 ## Process
 
@@ -91,7 +91,7 @@ At least one week before the meeting:
     1. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
     1. Content:
         ```
-        These calls bring together the Technical Steering Committee for the ODK suite to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
+        These calls bring together the Technical Steering Committee for the ODK suite (@TSC-1) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
         The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
