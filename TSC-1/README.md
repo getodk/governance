@@ -64,6 +64,20 @@ The typical process is:
 - The TSC discusses and refines specifications during its meetings
 - Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
 
+## Lazy consensus guidelines
+
+The TSC-GOVERNANCE document specifies: "For internal project decisions, Committers shall operate under Lazy Consensus. The TSC shall establish appropriate guidelines for implementing Lazy Consensus (e.g., expected notification and review time periods)." 
+
+This section lays out those guidelines. Our goal is to allow sufficient time for thoughtful, asynchronous deliberation and feedback by the TSC without unduly impeding the work of those in need of a decision.
+
+If a decision from the TSC is called for in a given matter, a proposal should be made by a committer or TSC member and it should have a deadline included. The TSC must be notified by being @mentioned in a post on the forum. Everyone on the forum can @mention the TSC and the notifications will also appear in #tsc-1-pulse on Slack.
+
+TSC members have at least 72 hours (3 days) to object to proposals. Controversial or breaking changes (e.g., spec additions, feature removal, governance changes) require at least 120 hours (5 days) to object. TSC members can request more time (typically no more than a doubling of the initial time).
+
+TSC members should acknowledge reading the proposal (preferably with a comment) so there is a visible record of their approval. If there are no objections, the proposal can proceed. If there are objections, there should be discussion until there are no more objections or the proposal is withdrawn or rejected.
+
+Asynchronous decisions of the TSC may be made only via the forum, and not GitHub PRs (e.g., for the website) or Slack conversations or emails. This is by design. We want to have a single place (the forum) where all TSC members are expected to respond.
+
 ## Meeting Facilitator Checklist
 
 ### Pre-preparing
