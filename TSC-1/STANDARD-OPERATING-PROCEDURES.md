@@ -1,6 +1,4 @@
-# ODK TSC Landing Page
-
-The Technical Steering Committee is the technical governing body for Open Data Kit 1 core projects.
+# Standard Operating Procedures
 
 ## Quick Links
 
@@ -12,7 +10,7 @@ The Technical Steering Committee is the technical governing body for Open Data K
 - [TSC-1 Forum Category](https://forum.opendatakit.org/c/governance/tsc-1)
 - [TSC-1 Forum Tag](https://forum.opendatakit.org/tags/tsc-1)
 - ODK Project Pages: [Briefcase](https://github.com/opendatakit/briefcase), [Build](https://github.com/opendatakit/build), [Collect](https://github.com/opendatakit/collect), [Documentation](https://github.com/opendatakit/docs), [JavaRosa](https://github.com/opendatakit/javarosa), [ODK XForms specification](https://github.com/opendatakit/xforms-spec), [Validate](https://github.com/opendatakit/validate), [XLSForm offline](https://github.com/opendatakit/xlsform-offline), [XLSForm online](https://github.com/opendatakit/xlsform-online)
-- [TSC-1 Tool Governance](https://github.com/opendatakit/governance/blob/master/TSC-1/TOOL-GOVERNANCE.md)
+- [TSC 1 Tool Governance](https://github.com/opendatakit/governance/blob/master/TSC-1/TOOL-GOVERNANCE.md)
 - [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)
 - [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
@@ -99,7 +97,7 @@ At least one week before the meeting:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
 1. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
-    1. Title: ODK TSC-1 Call - YYYY-MM-DD
+    1. Title: ODK TSC 1 Call - YYYY-MM-DD
     1. Category: Development
     1. Tags: `tsc-1`, `tsc-meeting`
     1. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
