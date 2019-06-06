@@ -26,7 +26,7 @@ While it is expected that each suite's TSC will comply with this governance docu
 
 Although the TSCs may update the TSC governance (e.g., this document) as they find appropriate, revisions are subject to PMC review and veto. Any update to the TSCs governing document must be approved by the majority of the PMC. It is expected that the TSCs will have a collaborative relationship with each other and with the PMC.
 
-TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification.
+TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification. Standard operating procedures for TSC 1 can be found at [TSC 1](TSC-1/).
 
 The current TSC 1 members are:
 * Shobhit Agarwal ([@shobhitagarwal1612](https://github.com/shobhitagarwal1612)), [Tonbo Imaging](http://www.tonboimaging.com/)
@@ -40,7 +40,7 @@ The current TSC 1 members are:
 * Tom Smyth ([@hooverlunch](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
 * Dickson Ukang'a ([@ukanga](https://github.com/ukanga)), [Ona](https://ona.io/)
 
-TSC 2 is responsible for the ODK-X Suite: ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan.
+TSC 2 is responsible for the ODK-X Suite: ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan. Standard operating procedures for TSC 2 can be found at [TSC 2](TSC-2/).
 
 The current TSC 2 members are:
 * Jeff Beorse ([@Jeff_Beorse](https://forum.opendatakit.org/u/jeff_beorse)), [Watsi](https://watsi.org/), [Eir Birch](https://www.eirbirch.com/)
@@ -113,6 +113,10 @@ For internal project decisions, Committers shall operate under Lazy Consensus. T
 The TSC follows a Consensus Seeking decision-making model. When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
 
 If an agenda item cannot reach a consensus, a TSC member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be approved by a majority of the TSC or else the discussion will continue. If all members of the TSC are not present during the meeting for contentious issues, the final vote should happen asynchronously (e.g., via email). Simple majority wins.
+
+## <a name="amendments"></a>Amendments
+
+This document is owned by the PMC and amendments may only be made by decisions of the PMC.
 
 ## <a name="attribution"></a>Attribution
 
