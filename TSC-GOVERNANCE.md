@@ -2,6 +2,8 @@
 
 * [Overview](#overview)
 * [Roles and responsibilities](#roles-and-responsibilities)
+	* [TSC 1](#tsc-1)
+	* [TSC 2](#tsc-2)
 * [Committers](#committers)
 * [Membership](#membership)
 * [Meetings](#meetings)
@@ -26,6 +28,8 @@ While it is expected that each suite's TSC will comply with this governance docu
 
 Although the TSCs may update the TSC governance (e.g., this document) as they find appropriate, revisions are subject to PMC review and veto. Any update to the TSCs governing document must be approved by the majority of the PMC. It is expected that the TSCs will have a collaborative relationship with each other and with the PMC.
 
+#### <a name="tsc-1"></a>TSC 1
+
 TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification. Standard operating procedures for TSC 1 can be found at [TSC 1](TSC-1/).
 
 The current TSC 1 members are:
@@ -39,6 +43,8 @@ The current TSC 1 members are:
 * Martijn van de Rijdt ([@martijnr](https://github.com/martijnr)), [Enketo](http://enketo.org)
 * Tom Smyth ([@hooverlunch](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
 * Dickson Ukang'a ([@ukanga](https://github.com/ukanga)), [Ona](https://ona.io/)
+
+#### <a name="tsc-2"></a>TSC 2
 
 TSC 2 is responsible for the ODK-X Suite: ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan. Standard operating procedures for TSC 2 can be found at [TSC 2](TSC-2/).
 

@@ -35,7 +35,7 @@ Users are community members who have a need for the project. They are the most i
 
 The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
 
-*   evangelising about the project (e.g. a link on a website and word-of-mouth awareness raising)
+*   evangelizing about the project (e.g. a link on a website and word-of-mouth awareness raising)
 *   informing developers of strengths and weaknesses from a new user perspective
 *   providing moral support (a ‘thank you’ goes a long way)
 *   providing financial support (the software is open source, but its developers need to eat)
