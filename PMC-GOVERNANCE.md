@@ -1,4 +1,4 @@
-# Governance
+# PMC Governance
 
 * [Overview](#overview)
 * [Code of conduct](#code-of-conduct)

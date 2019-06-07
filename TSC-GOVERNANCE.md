@@ -1,4 +1,4 @@
-# Technical Steering Committee
+# TSC Governance
 
 * [Overview](#overview)
 * [Roles and responsibilities](#roles-and-responsibilities)
