@@ -11,11 +11,11 @@
 - [TSC-1 Forum Tag](https://forum.opendatakit.org/tags/tsc-1)
 - ODK Project Pages: [Briefcase](https://github.com/opendatakit/briefcase), [Build](https://github.com/opendatakit/build), [Collect](https://github.com/opendatakit/collect), [Documentation](https://github.com/opendatakit/docs), [JavaRosa](https://github.com/opendatakit/javarosa), [ODK XForms specification](https://github.com/opendatakit/xforms-spec), [Validate](https://github.com/opendatakit/validate), [XLSForm offline](https://github.com/opendatakit/xlsform-offline), [XLSForm online](https://github.com/opendatakit/xlsform-online)
 - [TSC 1 Tool Governance](https://github.com/opendatakit/governance/blob/master/TSC-1/TOOL-GOVERNANCE.md)
-- [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)
+- [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md)
 - [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 
-For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/lognaturel/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) approved on Nov 7, 2017.
+For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) approved on Nov 7, 2017.
 
 ## Communications
 
@@ -48,11 +48,11 @@ To add new members, a TSC member will send a Google Forms ballot to all TSC memb
 
 ## Adding new committers
 
-The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
+The [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc-1). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
 ## Roadmapping
 
-Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
+Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
 
 The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/1).
 
