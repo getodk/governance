@@ -10,11 +10,11 @@ The Technical Steering Committee is the technical governing body for Open Data K
 - [TSC Forum Category](https://forum.opendatakit.org/c/governance/tsc)
 - [TSC Forum Tag](https://forum.opendatakit.org/tags/tsc)
 - ODK 2 Project Pages: [Tables](https://github.com/opendatakit/tables), [Survey](https://github.com/opendatakit/survey), [Services](https://github.com/opendatakit/services), [Documentation](https://github.com/opendatakit/docs), [Application Designer](https://github.com/opendatakit/app-designer), [Suitcase](https://github.com/opendatakit/suitcase), [Sync-Endpoint](https://github.com/opendatakit/sync-endpoint)
-- [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)
+- [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md)
 - [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 
-For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) approved on Nov 7, 2017.
+For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) approved on Nov 7, 2017.
 
 ## Communications
 The TSC engages in various sorts of communication with different audiences. Is it important to understand which communication channel is appropriate for which message.
@@ -40,10 +40,10 @@ The TSC uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/C
 As much as possible, the TSC operates in public.
 
 ## Adding new committers
-The [TSC governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
+The [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
 ## Roadmapping
-Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
+Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
 
 The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/2).
 
