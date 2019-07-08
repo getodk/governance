@@ -4,7 +4,7 @@
 
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
-- [Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0)
+- ~~[Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0)~~ - DEPRECATED!
 - [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1)
 - [Uberconference Room](https://www.uberconference.com/opendatakit)
 - [TSC-1 Forum Category](https://forum.opendatakit.org/c/governance/tsc-1)
@@ -50,17 +50,20 @@ To add new members, a TSC member will send a Google Forms ballot to all TSC memb
 
 The [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc-1). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
-## Roadmapping
+## Roadmap
 
-Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#lazy-consensus). The TSC is responsible for maintaining a roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features.
+Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#lazy-consensus). The purpose of the roadmap is to document proposed changes and track new features to the ODK Project and/or associated projects/tools. The TSC is responsible for maintaining this roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features. Any current member has permission to add, remove, move items on the roadmap, although this should normally be done after consulation with the TSC.
 
 The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/1).
 
-The typical process is:
-- Any community member describes a feature [in the forum Features category](https://forum.opendatakit.org/c/features) and high-level discussion occurs
-- A TSC member takes all the feedback from the forum and writes a specification in a [Roadmap repository](https://github.com/opendatakit/roadmap) issue
-- The TSC discusses and refines specifications during its meetings
-- Accepted specifications are placed on the [roadmap](https://github.com/opendatakit/roadmap/projects/1)
+### Roadmap categories
+* **"Proposed"**: ideas or new features that are currently being discussed and details worked out, preferably via a Forum thread.
+* **"Under Review"**: roadmap items that recently have, or currently are, on a TSC agenda for review.
+* **"Approved"**: roadmap items that have been approved by TSC consensus (but not yet assigned to a specific developer). All approved items must have an associated github issue. Typically these are planned for release in the next 1-6 months.
+* **"In Progress"**: roadmap items whose github issue has been assigned to a developer (or owner) and is being worked on. Typically these will be completed in the next 1-3 months.
+* **"Done"**: roadmap items whose github issue has been closed (ie completed). Done items will be purged from appearing on this roadmap after approx 1 month.
+
+Features will typically progress in a somewhat formal fashion through these category stages, with specific recommended requirements needing to be met to progress from one stage to the next (although anyone with permision may add/move items from categories at any time). Specifically, prior to TSC approval, features, new roadmap ideas, project-related proposals, etc can be somewhat nebulous and may be discussed in a variety of suitable forums; eg simply placeholder notes in the roadmap, or ongoing public discussions in a related [ODK Features](https://forum.opendatakit.org/c/features) forum thread, or more development-focussed discussion in an associated github issue, etc. At an appropriate time a TSC member may take any  feedback and create a [Roadmap repository](https://github.com/opendatakit/roadmap) issue. Any "Proposed" roadmap issue may then be discussed and refined during subsequent TSC meetings. Once a new feature or proposal is formally 'approved' (TDB) by the TSC, it then needs to exist as a specific github issue associated with a specific github project (including goverance) for tracking purposes. The state of the feature/proposal in the roadmap should then mirror its github state, thus reducing inconsistencies; its github issue being the ground-truth.
 
 ## Lazy consensus guidelines
 
