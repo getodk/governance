@@ -51,7 +51,7 @@ The [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-G
 
 ## Roadmap
 
-Most project decisions are made through [lazy consensus](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#lazy-consensus). The purpose of the roadmap is to document proposed changes and track new features to the ODK Project and/or associated projects/tools. The TSC is responsible for maintaining this roadmap to ensure a coherent evolution of the core tools and to guide contributions from community members. The TSC is also the final authority for specifying larger or more controversial features. Any current member has permission to add, remove, move items on the roadmap, although this should normally be done after consultation with the TSC.
+The purpose of the roadmap is to document and track proposed changes to the ODK suite of tools. The TSC maintaining this roadmap to ensure a coherent and orderly evolution of the tools. Any TSC member can change the roadmap, but changes should typically be made only after consultation with other TSC members.
 
 The roadmap is maintained in [the Roadmap GitHub project](https://github.com/opendatakit/roadmap/projects/1).
 
