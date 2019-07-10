@@ -4,7 +4,6 @@
 
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
-- ~~[Agenda Item Parking Lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0)~~ - DEPRECATED!
 - [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1)
 - [Uberconference Room](https://www.uberconference.com/opendatakit)
 - [TSC-1 Forum Category](https://forum.opendatakit.org/c/governance/tsc-1)
