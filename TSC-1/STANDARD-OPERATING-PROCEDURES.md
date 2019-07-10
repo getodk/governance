@@ -55,11 +55,11 @@ The purpose of the roadmap is to document and track proposed changes to the ODK 
 
 The roadmap is maintained in [a project in the roadmap repo](https://github.com/opendatakit/roadmap/projects/1) and has the following categories.
 
-* Proposed: ideas or new features that are currently being discussed and details worked out, preferably via a Forum thread.
-* Under Review: roadmap items that recently have, or currently are, on a TSC agenda for review.
-* Approved: roadmap items that have been approved by TSC consensus (but not yet assigned to a specific developer). All approved items must have an associated GitHub issue. Typically these are planned for release in the next 1-6 months.
-* In Progress: roadmap items whose GitHub issue has been assigned to a developer (or owner) and is being worked on. Typically these will be completed in the next 1-3 months.
-* Done: roadmap items whose GitHub issue has been closed (ie completed). Done items will be purged from appearing on this roadmap after approx 1 month.
+* Proposed: items that are currently being discussed, preferably on a forum topic.
+* Under Review: items that have recently been, or currently are, on a TSC agenda for review.
+* Approved: items that have been approved by TSC but not yet assigned to a specific owner. Approved items must have an associated GitHub issue. Typically these items are planned for release in the next 6 months.
+* In Progress: items whose GitHub issue has been assigned to an owner and is currently being worked on. Typically these items will be completed in the next 3 months.
+* Done: items whose GitHub issue have been closed. Typically these items are removed from the roadmap 1 month after completion.
 
 Features will typically progress in a somewhat formal fashion through these category stages, with specific recommended requirements needing to be met to progress from one stage to the next (although anyone with permission may add/move items from categories at any time). Specifically, prior to TSC approval, features, new roadmap ideas, project-related proposals, etc can be somewhat nebulous and may be discussed in a variety of suitable forums; eg simply placeholder notes in the roadmap, or ongoing public discussions in a related [ODK Features](https://forum.opendatakit.org/c/features) forum thread, or more development-focused discussion in an associated GitHub issue, etc. At an appropriate time a TSC member may take any feedback and create a [Roadmap repository](https://github.com/opendatakit/roadmap) issue. Any "Proposed" roadmap issue may then be discussed and refined during subsequent TSC meetings. Once a new feature or proposal is formally 'approved' (TDB) by the TSC, it then needs to exist as a specific GitHub issue associated with a specific GitHub project (including governance) for tracking purposes. The state of the feature/proposal in the roadmap should then mirror its GitHub state, thus reducing inconsistencies; its GitHub issue being the ground-truth.
 
