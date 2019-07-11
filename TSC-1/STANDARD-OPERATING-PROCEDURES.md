@@ -51,17 +51,21 @@ The [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-G
 
 ## Roadmap
 
-The purpose of the roadmap is to document and track proposed changes to the ODK suite of tools. The TSC maintaining this roadmap to ensure a coherent and orderly evolution of the tools. Any TSC member can change the roadmap, but changes should typically be made only after consultation with other TSC members.
+The purpose of the roadmap is to document and track proposed changes to the ODK suite of tools. The TSC maintains this roadmap to ensure a coherent and orderly evolution of the tools. Any TSC member can change the roadmap, but changes should typically be made only after consultation with other TSC members.
 
 The roadmap is maintained in [a project in the roadmap repo](https://github.com/opendatakit/roadmap/projects/1) and has the following categories.
 
 * Proposed: items that are currently being discussed, preferably on a forum topic.
 * Under Review: items that have recently been, or currently are, on a TSC agenda for review.
-* Approved: items that have been approved by TSC but not yet assigned to a specific owner. Approved items must have an associated GitHub issue. Typically these items are planned for release in the next 6 months.
-* In Progress: items whose GitHub issue has been assigned to an owner and is currently being worked on. Typically these items will be completed in the next 3 months.
-* Done: items whose GitHub issue have been closed. Typically these items are removed from the roadmap 1 month after completion.
+* Approved: items that have been approved by TSC but not yet assigned to a specific owner. Approved items must have an associated issue. Typically these items are planned for release in the next 6 months.
+* In Progress: items whose issue has been assigned to an owner and is currently being worked on. Typically these items will be completed in the next 3 months.
+* Done: items whose issue have been closed. Typically these items are removed from the roadmap 1 month after completion.
 
-Features will typically progress in a somewhat formal fashion through these category stages, with specific recommended requirements needing to be met to progress from one stage to the next (although anyone with permission may add/move items from categories at any time). Specifically, prior to TSC approval, features, new roadmap ideas, project-related proposals, etc can be somewhat nebulous and may be discussed in a variety of suitable forums; eg simply placeholder notes in the roadmap, or ongoing public discussions in a related [ODK Features](https://forum.opendatakit.org/c/features) forum thread, or more development-focused discussion in an associated GitHub issue, etc. At an appropriate time a TSC member may take any feedback and create a [Roadmap repository](https://github.com/opendatakit/roadmap) issue. Any "Proposed" roadmap issue may then be discussed and refined during subsequent TSC meetings. Once a new feature or proposal is formally 'approved' (TDB) by the TSC, it then needs to exist as a specific GitHub issue associated with a specific GitHub project (including governance) for tracking purposes. The state of the feature/proposal in the roadmap should then mirror its GitHub state, thus reducing inconsistencies; its GitHub issue being the ground-truth.
+TSC members move items through these categories, starting at Proposed and finishing at Done.
+
+Prior to TSC approval, items can be vaguely specified. Discussions to refine these items should take place in a Google Doc, on a user-facing [features category](https://forum.opendatakit.org/c/features) forum topic, or developer-facing [development category](https://forum.opendatakit.org/c/features) forum topic or GitHub issue.
+
+If a TSC member deems an item ready for approval, the member can create a [roadmap issue](https://github.com/opendatakit/roadmap) issue or an issue in the relevant tool's repo. Any item can be discussed by the TSC, but items must have a issue before they can be approved by the TSC. Once approved, the issue becomes the "ground truth" for the item.
 
 ## Lazy consensus guidelines
 
