@@ -97,7 +97,7 @@ At least one week before the meeting:
     1. Copy the agenda template, found at the very bottom of the document, to that page.
     1. Copy action items from the previous meeting into the new agenda for follow up.
     1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    1. Look in the [parking lot](https://docs.google.com/spreadsheets/d/15haxZxYvl6BcaPLGw-3zctzUQad8F3hCYqsnD5ylqdo/edit#gid=0) for potential agenda items.
+    1. Look at the [roadmap](https://github.com/opendatakit/roadmap/projects/1) for potential agenda items.
     1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
