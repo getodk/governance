@@ -61,11 +61,6 @@ The roadmap is maintained in [a project in the roadmap repo](https://github.com/
 * In Progress: items whose issue has been assigned to an owner and is currently being worked on. Typically these items will be completed in the next 3 months.
 * Done: items whose issue have been closed. Typically these items are removed from the roadmap 1 month after completion.
 
-Items on the roadmap should meet one of these requirements:
-* Major change to governance, specifications/APIs, or two or more tools.
-* Planned breaking change to any tool.
-* Deemed noteworthy by a lead developer or TSC members.
-
 TSC members move items through these categories, starting at Proposed and finishing at Done.
 
 Prior to TSC approval, items can be vaguely specified. Discussions to refine these items should take place in a Google Doc, on a user-facing [features category](https://forum.opendatakit.org/c/features) forum topic, or developer-facing [development category](https://forum.opendatakit.org/c/features) forum topic or GitHub issue.
