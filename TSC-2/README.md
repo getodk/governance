@@ -29,7 +29,7 @@ The TSC engages in various sorts of communication with different audiences. Is i
 | Slack | [#tsc](https://opendatakit.slack.com/channels/tsc) | Anyone can join, new members can see history | For quick, semi-private ephemeral conversation. |
 
 ## Process
-The ODK 2 TSC currently meets fortnightly for 1 hour on [Uberconference](https://www.uberconference.com/opendatakit). Meeting times are posted in the forums, and are open for non-TSC members to listen.
+The ODK 2 TSC currently meets every two weeks for 1 hour on [Uberconference](https://www.uberconference.com/opendatakit). Meeting times are posted in the forums, and are open for non-TSC members to listen.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
