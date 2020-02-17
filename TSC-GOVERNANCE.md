@@ -35,7 +35,7 @@ TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm,
 The current TSC 1 members are:
 * Shobhit Agarwal ([@shobhitagarwal1612](https://github.com/shobhitagarwal1612)), [Tonbo Imaging](http://www.tonboimaging.com/)
 * Yaw Anokwa ([@yanokwa](https://github.com/yanokwa)), [Nafundi](http://nafundi.com/)
-* Gareth S. Bestor ([@tiritea](https://github.com/tiritea)), [Master Business Systems](http://master.co.nz/)
+* Gareth S. Bestor ([@tiritea](https://github.com/tiritea)), [Objective](https://www.objective.com/)
 * Adam Butler ([@adamvert](https://github.com/adamvert)), [eHealth Africa](https://www.ehealthafrica.org/)
 * Guillermo Gutiérrez ([@ggalmazor](https://github.com/ggalmazor)), [Nafundi](http://nafundi.com/)
 * Dan Joseph ([@danbjoseph](https://github.com/danbjoseph)), [American Red Cross](https://www.redcross.org/)
