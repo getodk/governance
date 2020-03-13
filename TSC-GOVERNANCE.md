@@ -33,11 +33,9 @@ Although the TSCs may update the TSC governance (e.g., this document) as they fi
 TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification. Standard operating procedures for TSC 1 can be found at [TSC 1](TSC-1/).
 
 The current TSC 1 members are:
-* Shobhit Agarwal ([@shobhitagarwal1612](https://github.com/shobhitagarwal1612)), [Tonbo Imaging](http://www.tonboimaging.com/)
 * Yaw Anokwa ([@yanokwa](https://github.com/yanokwa)), [Nafundi](http://nafundi.com/)
 * Gareth S. Bestor ([@tiritea](https://github.com/tiritea)), [Objective](https://www.objective.com/)
 * Adam Butler ([@adamvert](https://github.com/adamvert)), [eHealth Africa](https://www.ehealthafrica.org/)
-* Guillermo Gutiérrez ([@ggalmazor](https://github.com/ggalmazor)), [Nafundi](http://nafundi.com/)
 * Dan Joseph ([@danbjoseph](https://github.com/danbjoseph)), [American Red Cross](https://www.redcross.org/)
 * Aurelio Di Pasquale ([@aurdipas](https://github.com/aurdipas)), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
 * Martijn van de Rijdt ([@martijnr](https://github.com/martijnr)), [Enketo](http://enketo.org)
