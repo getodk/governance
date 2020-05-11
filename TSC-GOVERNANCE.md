@@ -2,8 +2,6 @@
 
 * [Overview](#overview)
 * [Roles and responsibilities](#roles-and-responsibilities)
-	* [TSC 1](#tsc-1)
-	* [TSC 2](#tsc-2)
 * [Committers](#committers)
 * [Membership](#membership)
 * [Meetings](#meetings)
@@ -12,27 +10,19 @@
 
 ## <a name="overview"></a>Overview
 
-The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and two Technical Steering Committees (TSC 1, TSC 2). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK and ODK-X (formerly ODK 2).
-
-_Note: As ODK transitions out of the University of Washington, the current PMC's authority will be transferred to a Transition Board. Once the transition is finished, the authority will transfer to a more permanent governance body (likely another PMC). The TSCs will remain active throughout the transition process and post-transition._
+The ODK project is governed by the Technical Steering Committee (TSC).
 
 ## <a name="roles-and-responsibilities"></a>Roles and responsibilities
 
-The Technical Steering Committees are responsible for high-level technical direction of their respective suites of software. Each TSC has authority over all technical aspects of their suite including:
+The TSC is responsible for overall direction of the project. This includes:
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.)
 * Forming appropriate suite Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions
 * The suite's technical resources (e.g., code repositories, servers)
 * Maintaining the list of the suite's Committers
 
-While it is expected that each suite's TSC will comply with this governance document in its own way, wherever possible, the TSCs should choose shared policies and infrastructure which allow for consistent process, but administrative separation across their respective suites of software. In the case where the TSCs cannot reach consensus on policies and infrastructure, the final decision will be made by a majority vote by the PMC.
+Standard operating procedures for the TSC can be found at [here](https://github.com/getodk/governance/blob/master/STANDARD-OPERATING-PROCEDURES.md).
 
-Although the TSCs may update the TSC governance (e.g., this document) as they find appropriate, revisions are subject to PMC review and veto. Any update to the TSCs governing document must be approved by the majority of the PMC. It is expected that the TSCs will have a collaborative relationship with each other and with the PMC.
-
-#### <a name="tsc-1"></a>TSC 1
-
-TSC 1 is responsible for the ODK Suite: ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification. Standard operating procedures for TSC 1 can be found at [TSC 1](TSC-1/).
-
-The current TSC 1 members are:
+The current TSC members are:
 * Yaw Anokwa ([@yanokwa](https://github.com/yanokwa)), [Nafundi](http://nafundi.com/)
 * Gareth S. Bestor ([@tiritea](https://github.com/tiritea)), [Objective](https://www.objective.com/)
 * Adam Butler ([@adamvert](https://github.com/adamvert)), [eHealth Africa](https://www.ehealthafrica.org/)
@@ -41,19 +31,6 @@ The current TSC 1 members are:
 * Martijn van de Rijdt ([@martijnr](https://github.com/martijnr)), [Enketo](http://enketo.org)
 * Tom Smyth ([@hooverlunch](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
 * Dickson Ukang'a ([@ukanga](https://github.com/ukanga)), [Ona](https://ona.io/)
-
-#### <a name="tsc-2"></a>TSC 2
-
-TSC 2 is responsible for the ODK-X Suite: ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan. Standard operating procedures for TSC 2 can be found at [TSC 2](TSC-2/).
-
-The current TSC 2 members are:
-* Jeff Beorse ([@Jeff_Beorse](https://forum.opendatakit.org/u/jeff_beorse)), [Watsi](https://watsi.org/), [Eir Birch](https://www.eirbirch.com/)
-* Raquel Berndedo ([@berpita](https://forum.opendatakit.org/u/berpita/)), [Spanish Red Cross](https://www.cruzroja.es/)
-* Waylon Brunette ([@wbrunette](https://github.com/wbrunette)), [University of Washington](http://www.washington.edu/)
-* Ben Green ([@bengreen](https://forum.opendatakit.org/u/bengreen)), [World Mosquito Program](https://worldmosquito.org)
-* Caroline Krafft ([@elmps2018](https://forum.opendatakit.org/u/elmps2018)), [St Catherine University](https://sites.google.com/site/carolinekrafft/home)
-* Li Lin ([@linl33](https://forum.opendatakit.org/u/linl33/)), [University of Washington](http://www.washington.edu/)
-* Belendia Serda ([@bs](https://forum.opendatakit.org/u/bs)), [PATH](https://path.org/)
 
 ## <a name="committers"></a>Committers
 
@@ -70,7 +47,7 @@ In the case of changes proposed by an existing Committer, an additional Committe
 Committers may opt to elevate significant or controversial modifications or modifications that have not found consensus to the TSC for discussion by assigning the `tsc-agenda` tag to a pull request or issue or forum post. The TSC should serve as the final arbiter where required.
 
 The current list of Committers is here:
-* [https://github.com/orgs/opendatakit/people](https://github.com/orgs/opendatakit/people)
+* [https://github.com/orgs/getodk/people](https://github.com/orgs/getodk/people)
 
 ## <a name="membership"></a>Membership
 
