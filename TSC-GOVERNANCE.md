@@ -14,7 +14,7 @@ The ODK project is governed by the Technical Steering Committee (TSC).
 
 ## <a name="roles-and-responsibilities"></a>Roles and responsibilities
 
-The TSC is responsible for overall direction of the project. This includes:
+The TSC is responsible for the overall direction of the project. This includes:
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.)
 * Forming appropriate suite Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions
 * The suite's technical resources (e.g., code repositories, servers)
