@@ -1,6 +1,6 @@
 # Mission and Values
 
-The Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
+The ODK community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
 
 We value open communities and open source.
 

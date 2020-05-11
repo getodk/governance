@@ -2,19 +2,17 @@
 
 ## Preamble
 
-Open Data Kit (ODK) is a community that produces free and open-source software for collecting, managing, and using data in resource-constrained environments. From time to time, certain other projects adhering to that vision may wish to join ODK in order to contribute to and benefit from its brand, community, and vitality. The text below lays out the process by which a project may join (and leave) ODK, and the rights and responsibilities associated with being part of ODK.
+ODK is a community that produces free and open-source software for collecting, managing, and using data in resource-constrained environments. From time to time, certain other projects adhering to that vision may wish to join ODK in order to contribute to and benefit from its brand, community, and vitality. The text below lays out the process by which a project may join (and leave) ODK, and the rights and responsibilities associated with being part of ODK.
 
 ## Scope
 
-This document applies only to TSC 1 and the ODK Suite (Collect, Aggregate, Build, etc). It does not apply to TSC 2 and the ODK-X Suite (App Designer, Survey, Tables, etc).
-
-This document does not apply to the “[skunkworks](https://github.com/opendatakit/skunkworks)” projects that ODK hosts. Skunkworks projects have a separate inception process and do not use “ODK” in their name. A skunkworks project can become an ODK tool by meeting the criteria below, just like any other project.
+This document does not apply to the “[skunkworks](https://github.com/getodk/skunkworks)” projects that ODK hosts. Skunkworks projects have a separate inception process and do not use “ODK” in their name. A skunkworks project can become an ODK tool by meeting the criteria below, just like any other project.
 
 ## Definitions
 
 For the purposes of this document:
 
-- “The TSC” is TSC 1, the Technical Steering Committee responsible for the ODK Suite (Collect, Aggregate, Build, etc).
+- “The TSC” is the Technical Steering Committee responsible for ODK (Collect, Aggregate, Build, etc).
 - “The tool” is the project wishing to join ODK. When used in sentences such as “the tool must”, it can be assumed that the tool’s maintainers are the party responsible.
 - “The sponsor” is the person who submits the application to join ODK and serves as the chief point of contact.
 
@@ -69,8 +67,8 @@ If the tool has not fulfilled these requirements within 3 months it may be consi
 
 A tool that meets the above criteria, is willing to submit to the above requirements, and wishes to join ODK should submit a written application in the form of a public post to the Governance category on the ODK forum. The application should:
 
-- Use the `tsc-1` tag and clearly indicate TSC 1 (as opposed to TSC 2) as the recipient. 
-- Identify a sponsor—one person who will serve as the main point of contact. 
+- Use the `tsc` tag and clearly indicate the TSC as the recipient.
+- Identify a sponsor – one person who will serve as the main point of contact.
 - Describe the tool’s purpose and history. 
 - Explain why the tool wishes to join ODK.
 - Demonstrate how the tool meets all the above mandatory criteria and any of the recommended ones. 

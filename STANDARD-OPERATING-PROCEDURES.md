@@ -4,17 +4,17 @@
 
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
-- [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1)
-- [Uberconference Room](https://www.uberconference.com/opendatakit)
-- [TSC-1 Forum Category](https://forum.opendatakit.org/c/governance/tsc-1)
-- [TSC-1 Forum Tag](https://forum.opendatakit.org/tags/tsc-1)
-- ODK Project Pages: [Briefcase](https://github.com/opendatakit/briefcase), [Build](https://github.com/opendatakit/build), [Collect](https://github.com/opendatakit/collect), [Documentation](https://github.com/opendatakit/docs), [JavaRosa](https://github.com/opendatakit/javarosa), [ODK XForms specification](https://github.com/opendatakit/xforms-spec), [Validate](https://github.com/opendatakit/validate), [XLSForm offline](https://github.com/opendatakit/xlsform-offline), [XLSForm online](https://github.com/opendatakit/xlsform-online)
-- [TSC 1 Tool Governance](https://github.com/opendatakit/governance/blob/master/TSC-1/TOOL-GOVERNANCE.md)
-- [TSC Governance Guidelines](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md)
-- [Public Governance Page with TSC Members & Photos](https://opendatakit.org/community/governance/)
+- [ODK Roadmap](https://github.com/getodk/roadmap/projects/1)
+- [Uberconference Room](https://www.uberconference.com/getodk)
+- [TSC Forum Category](https://forum.getodk.org/c/governance/tsc)
+- [TSC Forum Tag](https://forum.getodk.org/tags/tsc)
+- ODK Project Pages: [Briefcase](https://github.com/getodk/briefcase), [Build](https://github.com/getodk/build), [Central](https://github.com/getodk/central), [Collect](https://github.com/getodk/collect), [Documentation](https://github.com/getodk/docs), [JavaRosa](https://github.com/getodk/javarosa), [ODK XForms specification](https://github.com/getodk/xforms-spec), [Validate](https://github.com/getodk/validate), [XLSForm Offline](https://github.com/getodk/xlsform-offline), [XLSForm Online](https://github.com/getodk/xlsform-online)
+- [TSC Tool Governance](https://github.com/getodk/governance/blob/master/TOOL-GOVERNANCE.md)
+- [TSC Governance Guidelines](https://github.com/getodk/governance/blob/master/TSC-GOVERNANCE.md)
+- [Public Governance Page with TSC Members & Photos](https://getodk.org/community/governance/)
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 
-For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) approved on Nov 7, 2017.
+For more details on the TSC's responsibilities, see the [TSC governance](https://github.com/getodk/governance/blob/master/TSC-GOVERNANCE.md) approved on Nov 7, 2017.
 
 ## Communications
 
@@ -22,16 +22,16 @@ The TSC engages in various sorts of communication with different audiences. Is i
 
 | Venue | Channel | Visibility | Purpose |
 |---|---|---|---|
-| UberConference | [Conference Room](https://www.uberconference.com/opendatakit) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
-| Forums | [tsc-1 Tag](https://forum.opendatakit.org/tags/tsc-1) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.opendatakit.org/c/governance) category but not always. |
-| Forums | [tsc-1 Category](https://forum.opendatakit.org/c/governance/tsc-1) | TSC-only | For private conversations. |
-| Forums | [@TSC-1 Mention](https://forum.opendatakit.org/search?q=@TSC-1) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
-| Forums | [Meeting Topic](https://forum.opendatakit.org/search?q=TSC-1%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
-| Slack | [#tsc-1, #tsc-1-pulse Channels](https://opendatakit.slack.com/channels/tsc-1) | TSC-only | For quick, private ephemeral conversation. |
+| UberConference | [Conference Room](https://www.uberconference.com/getodk) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
+| Forums | [tsc Tag](https://forum.getodk.org/tags/tsc) | Usually public | Used for public posts with TSC-related content, usually in the [Governance](https://forum.getodk.org/c/governance) category but not always. |
+| Forums | [tsc Category](https://forum.getodk.org/c/governance/tsc) | TSC-only | For private conversations. |
+| Forums | [@TSC Mention](https://forum.getodk.org/search?q=@TSC) | Public or private, depending on location used | Include in post to request action from TSC. ONLY TSC can use it, and should be used sparingly. Somewhat like a TSC mailing list. |
+| Forums | [Meeting Topic](https://forum.getodk.org/search?q=TSC%20Call) | Public | Topics created for each meeting. Venue for TSC agenda requests from public. |
+| Slack | [#tsc, #tsc-pulse Channels](https://getodk.slack.com/channels/tsc) | TSC-only | For quick, private ephemeral conversation. |
 
 ## Process
 
-The TSC meets every other Wednesday for 1 hour on [Uberconference](https://www.uberconference.com/opendatakit). Meetings are open for non-TSC members to listen. See meeting announcements for dates and times.
+The TSC meets every other Wednesday for 1 hour on [Uberconference](https://www.uberconference.com/getodk). Meetings are open for non-TSC members to listen. See meeting announcements for dates and times.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
@@ -47,13 +47,13 @@ To add new members, a TSC member will send a Google Forms ballot to all TSC memb
 
 ## Adding new committers
 
-The [TSC governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.opendatakit.org/c/governance/tsc-1). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
+The [TSC governance](https://github.com/getodk/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.getodk.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/getodk/governance/blob/master/PMC-GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
 ## Roadmap
 
 The purpose of the roadmap is to document and track proposed changes to the ODK suite of tools. The TSC maintains this roadmap to ensure a coherent and orderly evolution of the tools. Any TSC member can change the roadmap, but changes should typically be made only after consultation with other TSC members.
 
-The roadmap is maintained in [a project in the roadmap repo](https://github.com/opendatakit/roadmap/projects/1) and has the following categories.
+The roadmap is maintained in [a project in the roadmap repo](https://github.com/getodk/roadmap/projects/1) and has the following categories.
 
 * Proposed: items that are currently being discussed, preferably on a forum topic.
 * Under Review: items that have recently been, or currently are, on a TSC agenda for review.
@@ -68,9 +68,9 @@ Items on the roadmap should meet one of these requirements:
 
 TSC members move items through these categories, starting at Proposed and finishing at Done.
 
-Prior to TSC approval, items can be vaguely specified. Discussions to refine these items should take place in a Google Doc, on a user-facing [features category](https://forum.opendatakit.org/c/features) forum topic, or developer-facing [development category](https://forum.opendatakit.org/c/features) forum topic or GitHub issue.
+Prior to TSC approval, items can be vaguely specified. Discussions to refine these items should take place in a Google Doc, on a user-facing [features category](https://forum.getodk.org/c/features) forum topic, or developer-facing [development category](https://forum.getodk.org/c/features) forum topic or GitHub issue.
 
-If a TSC member deems an item ready for approval, the member can create a [roadmap issue](https://github.com/opendatakit/roadmap) issue or an issue in the relevant tool's repo. Any item can be discussed by the TSC, but items must have a issue before they can be approved by the TSC. Once approved, the issue becomes the "ground truth" for the item.
+If a TSC member deems an item ready for approval, the member can create a [roadmap issue](https://github.com/getodk/roadmap) issue or an issue in the relevant tool's repo. Any item can be discussed by the TSC, but items must have a issue before they can be approved by the TSC. Once approved, the issue becomes the "ground truth" for the item.
 
 ## Lazy consensus guidelines
 
@@ -78,7 +78,7 @@ The TSC-GOVERNANCE document specifies: "For internal project decisions, Committe
 
 This section lays out those guidelines. Our goal is to allow sufficient time for thoughtful, asynchronous deliberation and feedback by the TSC without unduly impeding the work of those in need of a decision.
 
-If a decision from the TSC is called for in a given matter, a proposal should be made by a committer or TSC member and it should have a deadline included. The TSC must be notified by being @mentioned in a post on the forum. Everyone on the forum can @mention the TSC and the notifications will also appear in #tsc-1-pulse on Slack.
+If a decision from the TSC is called for in a given matter, a proposal should be made by a committer or TSC member and it should have a deadline included. The TSC must be notified by being @mentioned in a post on the forum. Everyone on the forum can @mention the TSC and the notifications will also appear in #tsc-pulse on Slack.
 
 TSC members have at least 72 hours (3 days) to object to proposals. Controversial or breaking changes (e.g., spec additions, feature removal, governance changes) require at least 120 hours (5 days) to object. TSC members can request more time (typically no more than a doubling of the initial time).
 
@@ -102,20 +102,20 @@ At least one week before the meeting:
     1. Copy the agenda template, found at the very bottom of the document, to that page.
     1. Copy action items from the previous meeting into the new agenda for follow up.
     1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    1. Look at the [roadmap](https://github.com/opendatakit/roadmap/projects/1) for potential agenda items.
+    1. Look at the [roadmap](https://github.com/getodk/roadmap/projects/1) for potential agenda items.
     1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
-1. Create a thread for the meeting on the [forum](https://forum.opendatakit.org/).
-    1. Title: ODK TSC 1 Call - YYYY-MM-DD
+1. Create a thread for the meeting on the [forum](https://forum.getodk.org/).
+    1. Title: ODK TSC Call - YYYY-MM-DD
     1. Category: Development
-    1. Tags: `tsc-1`, `tsc-meeting`
+    1. Tags: `tsc`, `tsc-meeting`
     1. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
     1. Content:
         ```
-        These calls bring together the Technical Steering Committee for the ODK suite (@TSC-1) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
+        These calls bring together the Technical Steering Committee for the ODK suite (@TSC) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TSC members may talk.
 
-        The calls are held every two weeks in [our UberConference room](https://uberconference.com/opendatakit). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        The calls are held every two weeks in [our UberConference room](https://uberconference.com/getodk). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
         Our next call will be Wed, ENTER_DATE_ONLY_HERE. The meeting time should be shown in your timezone above.
 
@@ -144,7 +144,7 @@ At least one week before the meeting:
 
 It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
 
-* Google Docs/Drive - should be owned by opendatakit.org@gmail.com (PMC owns that account)
-    * If you create a Google Drive asset that is important for the project and should be long-lived, please transfer ownership to opendatakit.org@gmail.com.
-* UberConference Room - owned by opendatakit.org@gmail.com
-* GitHub projects - owned by the opendatakit GitHub organization
+* Google Docs/Drive - should be owned by getodk@gmail.com (TSC owns that account)
+    * If you create a Google Drive asset that is important for the project and should be long-lived, please transfer ownership to getodk@gmail.com .
+* UberConference Room - owned by getodk@gmail.com 
+* GitHub projects - owned by the Get ODK GitHub organization
