@@ -53,9 +53,7 @@ The current list of Committers is here:
 
 TSC membership will be determined via a public application process. The application requirements will focus on relevant experience, contributions to the suite ecosystem, and availability to provide technical direction to the suite.
 
-The initial TSC membership will be determined by the PMC after a public application process and initial members will serve for 1 year.
-
-After the initial selection by the PMC, members will be elected by a 2/3rds (rounded up) majority of the current TSC and serve for a term of 2 years, unless they resign or are removed.
+Members will be elected by a 2/3rds (rounded up) majority of the current TSC and serve for a term of 2 years, unless they resign or are removed.
 
 The TSC must have at least three members, but there is no fixed size. The expected target is between 6 and 12, from a minimum of 3 separate organizations, to ensure long-term sustainability, adequate coverage of important areas of expertise, and ability to make decisions efficiently.
 
@@ -97,7 +95,7 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
 
 ## <a name="amendments"></a>Amendments
 
-This document is owned by the PMC and amendments may only be made by decisions of the PMC.
+This document is owned by the TSC and amendments may only be made by decisions of the TSC.
 
 ## <a name="attribution"></a>Attribution
 
