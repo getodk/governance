@@ -47,7 +47,7 @@ To add new members, a TSC member will send a Google Forms ballot to all TSC memb
 
 ## Adding new committers
 
-The [TSC governance](https://github.com/getodk/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.getodk.org/c/governance/tsc). Selection of a new committer requires consensus approval as described in the [PMC governance](https://github.com/getodk/governance/blob/master/PMC-GOVERNANCE.md#types-of-approval): three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
+The [TSC governance](https://github.com/getodk/governance/blob/master/TSC-GOVERNANCE.md) requires that the TSC choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TSC forum category](https://forum.getodk.org/c/governance/tsc). Selection of a new committer requires consensus approval: three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
 ## Roadmap
 
