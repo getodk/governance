@@ -29,7 +29,7 @@ The current TSC members are:
 * Dan Joseph ([@danbjoseph](https://github.com/danbjoseph)), [American Red Cross](https://www.redcross.org/)
 * Aurelio Di Pasquale ([@aurdipas](https://github.com/aurdipas)), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
 * Martijn van de Rijdt ([@martijnr](https://github.com/martijnr)), [Enketo](http://enketo.org)
-* Tom Smyth ([@hooverlunch](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
+* Tom Smyth ([@smyoth](https://github.com/hooverlunch)), [Sassafras Tech Collective](http://sassafras.coop/)
 * Dickson Ukang'a ([@ukanga](https://github.com/ukanga)), [Ona](https://ona.io/)
 
 ## <a name="committers"></a>Committers
