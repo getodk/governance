@@ -1,6 +1,6 @@
 # Governance Overview
 
-The ODK project is governed by Get ODK Inc. under the supervision of its Technical Steering Committee.
+The ODK project is governed by Get ODK Inc. under the supervision of its Technical Advisory Board.
 
 These groups are guided first and foremost by the project's [Code of Conduct](CODE-OF-CONDUCT.md) and [Mission and Values](MISSION-AND-VALUES.md). The remainder of this document lays out how specific decisions are made.
 
@@ -10,13 +10,13 @@ ODK has become a large and vibrant open source project, depended on by millions 
 
 Get ODK Inc. strives to preserve ODK as a healthy and bona fide open source project and sustains its operations through ODK-related business activites (or otherwise).
 
-## Technical Steering Committee
+## Technical Advisory Board
 
-The Technical Steering Committee (TSC) represents the ODK community of end users and implementers. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes.
+The Technical Advisory Board (TAB) represents the ODK community of end users and implementers. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes.
 
-The TSC pre-dates the formation of Get ODK Inc. When Get ODK Inc. was created, the TSC agreed to become an advisory body to the new entity. Get ODK Inc. commits to maintaining the TSC indefinitely as part of its commitment to the open source community.
+The TAB was formerly the Technical Steering Committee (TSC). When Get ODK Inc. was created, the TAB agreed to become an advisory body to the new entity and change its name. Get ODK Inc. commits to maintaining the TAB indefinitely as part of its commitment to the open source community.
 
-The TSC's membership and decision making process are defined in the [TSC's internal governance policy](TSC-GOVERNANCE.md).
+The TAB's membership and decision making process are defined in the [TAB's internal governance policy](TAB-GOVERNANCE.md).
 
 ## Code
 
@@ -28,9 +28,9 @@ ODK code is permissively licensed with code copyright remaining with the origina
 
 Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Commit/write access allows contributors to more easily carry on with their project-related activities by giving them direct access to the project's resources.
 
-Get ODK Inc. awards Committer status to individuals making significant and valuable contributions to the project. Current Committers and the TSC may also suggest individuals deserving of Committer access, but Get ODK Inc. has final say.
+Get ODK Inc. awards Committer status to individuals making significant and valuable contributions to the project. Current Committers and the TAB may also suggest individuals deserving of Committer access, but Get ODK Inc. has final say.
 
-_Note: If you make a significant contribution and are not considered for commit/write access on the appropriate resource, file an issue, post on the forum, or contact a TSC member directly and it will be brought up at the next TSC meeting._
+_Note: If you make a significant contribution and are not considered for commit/write access on the appropriate resource, file an issue, post on the forum, or contact a TAB member directly and it will be brought up at the next TAB meeting._
 
 If a Committer becomes inactive, having not participated substantially in the project for six months or more, their Committer status will be revoked. They may regain status again by resuming substantial participation.
 
@@ -44,15 +44,15 @@ Proposed code changes must be approved by a project Committer with sufficient ex
 
 In the case of changes proposed by an existing Committer, an additional Committer is required for review.
 
-Committers should elevate significant or controversial modifications to the TSC for discussion. The TSC should seek to achieve consensus on the question and offer its recommendation.
+Committers should elevate significant or controversial modifications to the TAB for discussion. The TAB should seek to achieve consensus on the question and offer its recommendation.
 
 As Get ODK Inc. has commit access and controls the release process for all tools, it effectively has final say on any code changes. The above procedures are designed to foster a collaborative, community-oriented process, and should be followed in most cases.
 
 ## Roadmap
 
-A "project roadmap" is the plan of upcoming changes to a project's code. In ODK projects, the Get ODK Inc. and the TSC collaborate to set the roadmap. Suitability of items for the roadmap is determined by community need and the availability of resources to support development.
+A "project roadmap" is the plan of upcoming changes to a project's code. In ODK projects, the Get ODK Inc. and the TAB collaborate to set the roadmap. Suitability of items for the roadmap is determined by community need and the availability of resources to support development.
 
-As stated above, anybody may submit a pull request against any of the repositories. The change approval section above covers how such pull requests may be approved. It should be noted, though, that major changes to the project stand a much better chance of being accepted if they are on the roadmap and/or if Get ODK Inc. and the TSC have agreed in advance they are a good fit for the project and that the chosen design and implementation stategy are suitable.
+As stated above, anybody may submit a pull request against any of the repositories. The change approval section above covers how such pull requests may be approved. It should be noted, though, that major changes to the project stand a much better chance of being accepted if they are on the roadmap and/or if Get ODK Inc. and the TAB have agreed in advance they are a good fit for the project and that the chosen design and implementation stategy are suitable.
 
 ## Tools
 
@@ -60,4 +60,4 @@ ODK is a community that produces free and open-source software for collecting, m
 
 ## Amendments
 
-Revisions to any document in this repository must be approved by both Get ODK Inc. and the Technical Steering Committee. Even though these documents exist within an ODK repository, this requirement supersedes the change approval policy above. Committers should not effect changes to documents in this repository without the approval of Get ODK Inc. and the TSC. Exceptions may be made for small changes such as typographical errors.
+Revisions to any document in this repository must be approved by both Get ODK Inc. and the Technical Advisory Board. Even though these documents exist within an ODK repository, this requirement supersedes the change approval policy above. Committers should not effect changes to documents in this repository without the approval of Get ODK Inc. and the TAB. Exceptions may be made for small changes such as typographical errors.
