@@ -1,8 +1,8 @@
 # Governance Overview
 
-The ODK project is governed by Get ODK Inc. under the supervision of its Technical Advisory Board.
+The ODK project is governed by Get ODK Inc. under the supervision of its Technical Advisory Board. It is separate from the ODK-X project as per the terms of the [Separation MOU](SEPARATION-MOU.md).
 
-These groups are guided first and foremost by the project's [Code of Conduct](CODE-OF-CONDUCT.md) and [Mission and Values](MISSION-AND-VALUES.md). The remainder of this document lays out how specific decisions are made.
+Get ODK Inc. and its Technical Advisory Board are guided first and foremost by the project's [Code of Conduct](CODE-OF-CONDUCT.md) and [Mission and Values](MISSION-AND-VALUES.md). The remainder of this document lays out how specific decisions are made.
 
 ## Get ODK Inc.
 
