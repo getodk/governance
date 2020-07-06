@@ -6,15 +6,15 @@ ODK is a community that produces free and open-source software for collecting, m
 
 ## Scope
 
-This document does not apply to the “[skunkworks](https://github.com/getodk/skunkworks)” projects that ODK hosts. Skunkworks projects have a separate inception process and do not use “ODK” in their name. A skunkworks project can become an ODK tool by meeting the criteria below, just like any other project.
+This document does not apply to the "[skunkworks](https://github.com/getodk/skunkworks)" projects that ODK hosts. Skunkworks projects have a separate inception process and do not use "ODK" in their name. A skunkworks project can become an ODK tool by meeting the criteria below, just like any other project.
 
 ## Definitions
 
 For the purposes of this document:
 
-- “The TAB” is the Technical Advisory Board responsible for ODK (Collect, Aggregate, Build, etc).
-- “The tool” is the project wishing to join ODK. When used in sentences such as “the tool must”, it can be assumed that the tool’s maintainers are the party responsible.
-- “The sponsor” is the person who submits the application to join ODK and serves as the chief point of contact.
+- "Get ODK Inc." and "The TAB" are as defined in the [Governance Overview](README.md).
+- "The tool" is the project wishing to join ODK. When used in sentences such as "the tool must", it can be assumed that the tool’s maintainers are the party responsible.
+- "The sponsor" is the person who submits the application to join ODK and serves as the chief point of contact.
 
 ## Admission Criteria
 
@@ -41,9 +41,7 @@ In addition, the following are strongly recommended and should be considered by 
 
 ## Rights & Responsibilities
 
-Once a tool has joined ODK, it, like any other tool, becomes subject to the governance of ODK. The sponsor should familiarize themselves with ODK's governance.
-
-In particular, the ODK governance states that “The TAB has authority over all technical aspects including: tool roadmap, forming appropriate Working Groups to gather the necessary community feedback before making decisions, technical resources (e.g., code repositories, servers), and maintaining the list of Committers.” In practice, the day-to-day operations of the tool’s development may not be greatly affected by joining ODK, but the tool’s maintainers should be aware that the TAB’s authority over the tool as defined in ODK's governance is an important condition of its being considered a member of ODK.
+Once a tool has joined ODK, it, like any other tool, becomes subject to the [governance of ODK](README.md). The sponsor should familiarize themselves with ODK's governance, especially sections on committers, change approval, and roadmap.
 
 Upon joining ODK, the tool is entitled to:
 
@@ -55,7 +53,7 @@ Upon joining ODK, the tool is entitled to:
 
 The tool is required to, within a 3 month period:
 
-- Change its name to begin with “ODK” and reflect this change in all notable or prominent places where the tool appears.
+- Change its name to begin with "ODK" and reflect this change in all notable or prominent places where the tool appears.
 - Move its code repository to reside with the other repositories in ODK.
 - Submit a pull request adding the tool alongside the other tools on the ODK website.
 - Submit a pull request adding the tool to the ODK documentation site. If full documentation is not yet available, at least a minimal description of the tool and its purpose should be added as a placeholder for future, fuller documentation.
@@ -67,13 +65,17 @@ If the tool has not fulfilled these requirements within 3 months it may be consi
 
 A tool that meets the above criteria, is willing to submit to the above requirements, and wishes to join ODK should submit a written application in the form of a public post to the Governance category on the ODK forum. The application should:
 
-- Use the `TAB` tag and clearly indicate the TAB as the recipient.
+- Use the `tab` tag and clearly indicate the TAB as the recipient.
 - Identify a sponsor – one person who will serve as the main point of contact.
 - Describe the tool’s purpose and history.
 - Explain why the tool wishes to join ODK.
 - Demonstrate how the tool meets all the above mandatory criteria and any of the recommended ones.
 
-Upon receipt of the application, the TAB will place it on the agenda of an upcoming meeting for discussion. The TAB has sole authority over the decision to accept or deny the application, and it may deny the application for any reason. The TAB will use its normal decision making processes to reach a decision and may request further input from the sponsor before doing so. The TAB will notify the sponsor via the forum topic once a decision has been reached.
+Upon receipt of the application, the TAB will place it on the agenda of an upcoming meeting for discussion. The TAB will use its normal decision making processes to reach a decision and may request further input from the sponsor before doing so.
+
+If in favor of the project's joining, the TAB will officially recommend same to Get ODK Inc. Get ODK Inc. has final has final say on the addition of new tools to the project since it is the day-to-day manager and steward of the project and as such is ultimately responsible for maintaining the quality of the project and the ODK brand.
+
+The TAB will notify the sponsor via the forum topic once a decision has been reached.
 
 ## Departure/Archiving
 
@@ -84,9 +86,11 @@ A tool may be suitable for archiving in a number of situations:
 - It has achieved its goals and is complete.
 - Its maintainers no longer wish to be associated with ODK.
 
-The archiving process should be triggered by any member of the TAB who becomes aware of a tool’s suitability for archiving. The said member should request time on a TAB meeting agenda to discuss the archiving. If the TAB decides the tool is suitable for archiving, a clear, public notice should be posted on the ODK forum in the Governance category notifying the community of the TAB’s intent to archive the tool after 30 days.
+The archiving process should be triggered by any member of the TAB who becomes aware of a tool’s suitability for archiving. The said member should request time on a TAB meeting agenda to discuss the archiving. If the TAB decides the tool is suitable for archiving a clear, public notice should be posted on the ODK forum in the Governance category notifying the community of the TAB’s intent to archive the tool after 30 days.
 
 Notwithstanding the above, the TAB may decide to archive a tool at any time and for any reason.
+
+Any decision to archive a tool must also be approved by Get ODK Inc.
 
 Upon the decision to archive a tool, the following should be undertaken by the TAB:
 
@@ -97,5 +101,7 @@ Upon the decision to archive a tool, the following should be undertaken by the T
 Once a tool has been archived, its maintainers may request transferral of its repository to their ownership. Such request must be approved by a decision of the TAB.
 
 The TAB also reserves the right to delete a tool’s repository after it has been archived. The maintainers must be offered, with reasonable notice, the right to take ownership of the repository before it is deleted.
+
+## Attribution
 
 Portions taken from [https://gitlab.com/librehealth/lsc/community-governance/blob/master/GOVERNANCE.md#project-governance](https://gitlab.com/librehealth/lsc/community-governance/blob/master/GOVERNANCE.md#project-governance) under a CC-BY-4.0 license
