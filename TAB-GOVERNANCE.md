@@ -20,7 +20,7 @@ No more than 1/3 of the TAB members may be affiliated with the same organization
 
 Changes to TAB membership should be posted in the agenda, and may be suggested as any other agenda item.
 
-The current TAB members are listed at https://getodk.org/community/governance/.
+The current TAB members are listed at https://getodk.org/about/ecosystem.html.
 
 ## Meetings
 
