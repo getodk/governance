@@ -1,14 +1,14 @@
 # Technical Advisory Board
 
-The Technical Advisory Board (TAB) represents the ODK community of end users and implementers. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes. See the [Governance Overview](README.md) for more information on the TAB's place in the ODK project and community.
+The Technical Advisory Board (TAB) represents the broader ODK community. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes. See the [Governance Overview](README.md) for more information on the TAB's place in the ODK project and community.
 
 ## Membership
 
 TAB membership will be determined via a public application process. The application requirements will focus on relevant experience, contributions to the suite ecosystem, and availability to provide technical direction to the suite.
 
-Members will be elected by a 2/3rds (rounded up) majority of the current TAB and serve for a term of 2 years, unless they resign or are removed.
+Members will be elected by a 2/3rds (rounded up) majority of the current TAB and serve for a term of 2 years, unless they resign or are removed. Elections are typically held yearly in March and typically half of TAB is up for election.
 
-The TAB must have at least three members, but there is no fixed size. The expected target is between 6 and 12, from a minimum of 3 separate organizations, to ensure long-term sustainability, adequate coverage of important areas of expertise, and ability to make decisions efficiently.
+The TAB must have one permanent member from Get ODK Inc and at least two elected members, but there is no fixed size. The expected target is between 6 and 12, from a minimum of 3 separate organizations, to ensure long-term sustainability, adequate coverage of important areas of expertise, and ability to make decisions efficiently.
 
 There is no specific set of requirements or qualifications for TAB membership beyond these rules.
 
