@@ -20,11 +20,11 @@ No more than 1/3 of the TAB members may be affiliated with the same organization
 
 Changes to TAB membership should be posted in the agenda, and may be suggested as any other agenda item.
 
-The current TAB members are listed at https://getodk.org/community/governance/.
+The current TAB members are listed at https://getodk.org/about/ecosystem.html.
 
 ## Meetings
 
-The TAB will meet regularly (generally every two weeks). The meeting will be run by a facilitator chosen by the TAB and each meeting will be conducted and published to a publicly accessible platform (e.g., YouTube). Meeting frequency, times, agenda, and notes will also be published to a publicly accessible platform (e.g., the forum, Google Docs).
+The TAB will meet regularly (currently every four weeks). The meeting will be run by a facilitator chosen by the TAB and each meeting will be conducted and published to a publicly accessible platform (e.g., YouTube). Meeting frequency, times, agenda, and notes will also be published to a publicly accessible platform (e.g., the forum, Google Docs).
 
 The TAB will default to working in public, but sensitive topics (e.g., pre-disclosure security problems, confidential pre-agreement discussions with third parties, personal conflicts among personnel) should only be discussed on private channels.
 
