@@ -12,7 +12,7 @@ Get ODK Inc. strives to preserve ODK as a healthy and bona fide open source proj
 
 ## Technical Advisory Board
 
-The Technical Advisory Board (TAB) represents the ODK community of end users and implementers. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes.
+The Technical Advisory Board (TAB) represents the broader ODK community. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes.
 
 The TAB was formerly the Technical Steering Committee (TSC). When Get ODK Inc. was created, the TAB agreed to become an advisory body to the new entity and change its name. Get ODK Inc. commits to maintaining the TAB indefinitely as part of its commitment to the open source community.
 
