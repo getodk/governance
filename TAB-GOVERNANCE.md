@@ -1,6 +1,6 @@
 # Technical Advisory Board
 
-The Technical Advisory Board (TAB) represents the broader ODK community. It reviews and gives feedback on major roadmap decisions, new designs, specfications, features, and protocol changes. See the [Governance Overview](README.md) for more information on the TAB's place in the ODK project and community.
+The Technical Advisory Board (TAB) represents the broader ODK community. It reviews and gives feedback on major roadmap decisions, new designs, specifications, features, and protocol changes. See the [Governance Overview](README.md) for more information on the TAB's place in the ODK project and community.
 
 ## Membership
 
