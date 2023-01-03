@@ -6,7 +6,7 @@ Get ODK Inc. and its Technical Advisory Board are guided first and foremost by t
 
 ## Get ODK Inc.
 
-ODK has become a large and vibrant open source project, depended on by millions of users for critical data gathering needs. As such, the project requires substantial work to maintain. This work is best performed performed in a steady, reliable fashion by a concrete, well-resourced entity. 
+ODK has become a large and vibrant open source project, depended on by millions of users for critical data gathering needs. As such, the project requires substantial work to maintain. This work is best performed in a steady, reliable fashion by a concrete, well-resourced entity. 
 
 In recognition of these facts, Get ODK Inc., a corporation in the U.S. State of California, was formed to serve as the primary, day-to-day manager and steward of the project. Get ODK Inc. does business under the ODK trade name.
 
