@@ -50,4 +50,4 @@ As stated above, anybody may submit a pull request against any of the repositori
 
 ## Amendments
 
-Revisions to any document in this repository must be approved by both Get ODK Inc. Even though these documents exist within an ODK repository, this requirement supersedes the change approval policy above. Committers should not effect changes to documents in this repository without the approval of Get ODK Inc. Exceptions may be made for small changes such as typographical errors.
+Revisions to any document in this repository must be approved by Get ODK Inc. Even though these documents exist within an ODK repository, this requirement supersedes the change approval policy above. Committers should not effect changes to documents in this repository without the approval of Get ODK Inc. Exceptions may be made for small changes such as typographical errors.
